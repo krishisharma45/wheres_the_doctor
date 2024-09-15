@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <FinalDraft DocumentType="Script" Template="No" Version="6">
 
-  <DocumentRef DateTime="20240914T194946" id="da15bd54-2f8d-4ba2-956b-f938fd56fbea">
+  <DocumentRef DateTime="20240915T034016" id="3312a928-4abe-49cc-8dda-413bfadd6904">
     <XRef DateTime="20240914T182034" id="37fda82c-2169-47af-b0f5-4795e8cb4782"/>
+    <XRef DateTime="20240914T194946" id="da15bd54-2f8d-4ba2-956b-f938fd56fbea"/>
   </DocumentRef>
 
   <Content>
@@ -138,10 +139,14 @@
       <Text RevisionID="1">Lucinda</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="0d225ab6-b192-490c-a9fe-4193ffe4e8c8">
-      <Text RevisionID="1">See, a problem here, typically stems from a problem in here. </Text>
+      <Text RevisionID="1">See, a problem here, typically stems from a problem </Text>
+      <Text>up</Text>
+      <Text RevisionID="1"> here. </Text>
     </Paragraph>
     <Paragraph Type="Parenthetical" id="8714dbf3-fae0-42bd-8948-c08fcfdc732e">
-      <Text RevisionID="1">(points to her heart)</Text>
+      <Text RevisionID="1">(points to her </Text>
+      <Text>head</Text>
+      <Text RevisionID="1">)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="10ae8462-32af-4561-a18d-b62c1d4119ab">
       <Text RevisionID="1">So we treat patients head to toe.</Text>
@@ -246,7 +251,9 @@
       <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="9a207bce-6f0a-4987-b6c2-060d04244835">
-      <Text RevisionID="1">I am just here for a simple, ordinary doctor’s appointment. I don’t need a therapist. I don’t need the billing department. What are you, a phlebotomist? Are you the spiritual healer? </Text>
+      <Text RevisionID="1">I am just here for a simple, ordinary doctor’s appointment. I don’t need a therapist. I don’t need the billing department. What are you, </Text>
+      <Text>a</Text>
+      <Text RevisionID="1"> spiritual healer? </Text>
     </Paragraph>
     <Paragraph Type="Character" id="a02e4b0a-6a36-419d-8892-1e077c09fb99">
       <Text RevisionID="1">Dr. TERESA</Text>
@@ -256,8 +263,7 @@
     </Paragraph>
     <Paragraph Type="Action" id="48cd61b0-224c-498f-894e-6e1d766bb32a">
       <Text RevisionID="1">All of a sudden, a chainsaw crashes through the </Text>
-      <Text RevisionID="1">ceiling</Text>
-      <Text RevisionID="1"> and falls onto </Text>
+      <Text RevisionID="1">ceiling and falls onto </Text>
       <Text AdornmentStyle="-1" RevisionID="1">Priya’s</Text>
       <Text RevisionID="1"> foot.</Text>
     </Paragraph>
@@ -288,7 +294,9 @@
       <Text>Mark</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical" id="d53efadb-7c3a-4556-954f-bd2250f54201">
-      <Text RevisionID="1">(to </Text>
+      <Text RevisionID="1">(</Text>
+      <Text>hands a paper to</Text>
+      <Text RevisionID="1"> </Text>
       <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
       <Text RevisionID="1">)</Text>
     </Paragraph>
@@ -338,9 +346,9 @@
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="1310" Left="0" Mode="Normal" Top="105" Width="2240"/>
+  <WindowState Height="770" Left="0" Mode="Normal" Top="105" Width="1440"/>
 
-  <TextState Scaling="175" Selection="39,39" ShowInvisibles="No"/>
+  <TextState Scaling="150" Selection="1371,1371" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -672,135 +680,133 @@
     <DeletedTextLocation Offset="1351" RevisionID="1"/>
     <DeletedTextLocation Offset="1358" RevisionID="1"/>
     <DeletedTextLocation Offset="1360" RevisionID="1"/>
-    <DeletedTextLocation Offset="1368" RevisionID="1"/>
+    <DeletedTextLocation Offset="1367" RevisionID="1"/>
     <DeletedTextLocation Offset="1372" RevisionID="1"/>
     <DeletedTextLocation Offset="1373" RevisionID="1"/>
-    <DeletedTextLocation Offset="1374" RevisionID="1"/>
+    <DeletedTextLocation Offset="1406" RevisionID="1"/>
     <DeletedTextLocation Offset="1407" RevisionID="1"/>
-    <DeletedTextLocation Offset="1408" RevisionID="1"/>
-    <DeletedTextLocation Offset="1414" RevisionID="1"/>
-    <DeletedTextLocation Offset="1443" RevisionID="1"/>
-    <DeletedTextLocation Offset="1460" RevisionID="1"/>
-    <DeletedTextLocation Offset="1492" RevisionID="1"/>
-    <DeletedTextLocation Offset="1501" RevisionID="1"/>
-    <DeletedTextLocation Offset="1506" RevisionID="1"/>
+    <DeletedTextLocation Offset="1413" RevisionID="1"/>
+    <DeletedTextLocation Offset="1442" RevisionID="1"/>
+    <DeletedTextLocation Offset="1459" RevisionID="1"/>
+    <DeletedTextLocation Offset="1491" RevisionID="1"/>
+    <DeletedTextLocation Offset="1500" RevisionID="1"/>
+    <DeletedTextLocation Offset="1505" RevisionID="1"/>
+    <DeletedTextLocation Offset="1567" RevisionID="1"/>
     <DeletedTextLocation Offset="1568" RevisionID="1"/>
-    <DeletedTextLocation Offset="1569" RevisionID="1"/>
-    <DeletedTextLocation Offset="1589" RevisionID="1"/>
-    <DeletedTextLocation Offset="1650" RevisionID="1"/>
+    <DeletedTextLocation Offset="1588" RevisionID="1"/>
+    <DeletedTextLocation Offset="1649" RevisionID="1"/>
+    <DeletedTextLocation Offset="1655" RevisionID="1"/>
     <DeletedTextLocation Offset="1656" RevisionID="1"/>
-    <DeletedTextLocation Offset="1657" RevisionID="1"/>
-    <DeletedTextLocation Offset="1672" RevisionID="1"/>
-    <DeletedTextLocation Offset="1703" RevisionID="1"/>
-    <DeletedTextLocation Offset="1733" RevisionID="1"/>
-    <DeletedTextLocation Offset="1737" RevisionID="1"/>
-    <DeletedTextLocation Offset="1766" RevisionID="1"/>
-    <DeletedTextLocation Offset="1775" RevisionID="1"/>
-    <DeletedTextLocation Offset="1807" RevisionID="1"/>
-    <DeletedTextLocation Offset="1809" RevisionID="1"/>
-    <DeletedTextLocation Offset="1825" RevisionID="1"/>
-    <DeletedTextLocation Offset="1833" RevisionID="1"/>
-    <DeletedTextLocation Offset="1839" RevisionID="1"/>
-    <DeletedTextLocation Offset="1842" RevisionID="1"/>
-    <DeletedTextLocation Offset="1859" RevisionID="1"/>
-    <DeletedTextLocation Offset="1866" RevisionID="1"/>
-    <DeletedTextLocation Offset="1870" RevisionID="1"/>
-    <DeletedTextLocation Offset="1874" RevisionID="1"/>
-    <DeletedTextLocation Offset="1877" RevisionID="1"/>
-    <DeletedTextLocation Offset="1927" RevisionID="1"/>
+    <DeletedTextLocation Offset="1671" RevisionID="1"/>
+    <DeletedTextLocation Offset="1702" RevisionID="1"/>
+    <DeletedTextLocation Offset="1732" RevisionID="1"/>
+    <DeletedTextLocation Offset="1736" RevisionID="1"/>
+    <DeletedTextLocation Offset="1765" RevisionID="1"/>
+    <DeletedTextLocation Offset="1774" RevisionID="1"/>
+    <DeletedTextLocation Offset="1806" RevisionID="1"/>
+    <DeletedTextLocation Offset="1808" RevisionID="1"/>
+    <DeletedTextLocation Offset="1824" RevisionID="1"/>
+    <DeletedTextLocation Offset="1832" RevisionID="1"/>
+    <DeletedTextLocation Offset="1838" RevisionID="1"/>
+    <DeletedTextLocation Offset="1841" RevisionID="1"/>
+    <DeletedTextLocation Offset="1858" RevisionID="1"/>
+    <DeletedTextLocation Offset="1865" RevisionID="1"/>
+    <DeletedTextLocation Offset="1869" RevisionID="1"/>
+    <DeletedTextLocation Offset="1873" RevisionID="1"/>
+    <DeletedTextLocation Offset="1876" RevisionID="1"/>
+    <DeletedTextLocation Offset="1926" RevisionID="1"/>
+    <DeletedTextLocation Offset="1949" RevisionID="1"/>
     <DeletedTextLocation Offset="1950" RevisionID="1"/>
-    <DeletedTextLocation Offset="1951" RevisionID="1"/>
-    <DeletedTextLocation Offset="2018" RevisionID="1"/>
-    <DeletedTextLocation Offset="2082" RevisionID="1"/>
-    <DeletedTextLocation Offset="2129" RevisionID="1"/>
-    <DeletedTextLocation Offset="2133" RevisionID="1"/>
-    <DeletedTextLocation Offset="2172" RevisionID="1"/>
-    <DeletedTextLocation Offset="2195" RevisionID="1"/>
-    <DeletedTextLocation Offset="2226" RevisionID="1"/>
-    <DeletedTextLocation Offset="2232" RevisionID="1"/>
-    <DeletedTextLocation Offset="2264" RevisionID="1"/>
-    <DeletedTextLocation Offset="2270" RevisionID="1"/>
-    <DeletedTextLocation Offset="2272" RevisionID="1"/>
-    <DeletedTextLocation Offset="2278" RevisionID="1"/>
-    <DeletedTextLocation Offset="2289" RevisionID="1"/>
-    <DeletedTextLocation Offset="2320" RevisionID="1"/>
-    <DeletedTextLocation Offset="2332" RevisionID="1"/>
-    <DeletedTextLocation Offset="2348" RevisionID="1"/>
-    <DeletedTextLocation Offset="2351" RevisionID="1"/>
-    <DeletedTextLocation Offset="2353" RevisionID="1"/>
-    <DeletedTextLocation Offset="2355" RevisionID="1"/>
-    <DeletedTextLocation Offset="2367" RevisionID="1"/>
-    <DeletedTextLocation Offset="2381" RevisionID="1"/>
-    <DeletedTextLocation Offset="2387" RevisionID="1"/>
-    <DeletedTextLocation Offset="2393" RevisionID="1"/>
-    <DeletedTextLocation Offset="2434" RevisionID="1"/>
+    <DeletedTextLocation Offset="2017" RevisionID="1"/>
+    <DeletedTextLocation Offset="2081" RevisionID="1"/>
+    <DeletedTextLocation Offset="2128" RevisionID="1"/>
+    <DeletedTextLocation Offset="2132" RevisionID="1"/>
+    <DeletedTextLocation Offset="2171" RevisionID="1"/>
+    <DeletedTextLocation Offset="2194" RevisionID="1"/>
+    <DeletedTextLocation Offset="2225" RevisionID="1"/>
+    <DeletedTextLocation Offset="2231" RevisionID="1"/>
+    <DeletedTextLocation Offset="2263" RevisionID="1"/>
+    <DeletedTextLocation Offset="2269" RevisionID="1"/>
+    <DeletedTextLocation Offset="2271" RevisionID="1"/>
+    <DeletedTextLocation Offset="2277" RevisionID="1"/>
+    <DeletedTextLocation Offset="2288" RevisionID="1"/>
+    <DeletedTextLocation Offset="2319" RevisionID="1"/>
+    <DeletedTextLocation Offset="2331" RevisionID="1"/>
+    <DeletedTextLocation Offset="2347" RevisionID="1"/>
+    <DeletedTextLocation Offset="2350" RevisionID="1"/>
+    <DeletedTextLocation Offset="2352" RevisionID="1"/>
+    <DeletedTextLocation Offset="2354" RevisionID="1"/>
+    <DeletedTextLocation Offset="2366" RevisionID="1"/>
+    <DeletedTextLocation Offset="2380" RevisionID="1"/>
+    <DeletedTextLocation Offset="2386" RevisionID="1"/>
+    <DeletedTextLocation Offset="2392" RevisionID="1"/>
+    <DeletedTextLocation Offset="2433" RevisionID="1"/>
+    <DeletedTextLocation Offset="2455" RevisionID="1"/>
     <DeletedTextLocation Offset="2456" RevisionID="1"/>
-    <DeletedTextLocation Offset="2457" RevisionID="1"/>
-    <DeletedTextLocation Offset="2465" RevisionID="1"/>
-    <DeletedTextLocation Offset="2472" RevisionID="1"/>
-    <DeletedTextLocation Offset="2491" RevisionID="1"/>
-    <DeletedTextLocation Offset="2501" RevisionID="1"/>
-    <DeletedTextLocation Offset="2512" RevisionID="1"/>
-    <DeletedTextLocation Offset="2523" RevisionID="1"/>
-    <DeletedTextLocation Offset="2534" RevisionID="1"/>
-    <DeletedTextLocation Offset="2548" RevisionID="1"/>
-    <DeletedTextLocation Offset="2551" RevisionID="1"/>
-    <DeletedTextLocation Offset="2573" RevisionID="1"/>
-    <DeletedTextLocation Offset="2579" RevisionID="1"/>
-    <DeletedTextLocation Offset="2594" RevisionID="1"/>
-    <DeletedTextLocation Offset="2611" RevisionID="1"/>
-    <DeletedTextLocation Offset="2659" RevisionID="1"/>
-    <DeletedTextLocation Offset="2672" RevisionID="1"/>
-    <DeletedTextLocation Offset="2681" RevisionID="1"/>
-    <DeletedTextLocation Offset="2692" RevisionID="1"/>
-    <DeletedTextLocation Offset="2727" RevisionID="1"/>
-    <DeletedTextLocation Offset="2737" RevisionID="1"/>
-    <DeletedTextLocation Offset="2747" RevisionID="1"/>
-    <DeletedTextLocation Offset="2758" RevisionID="1"/>
-    <DeletedTextLocation Offset="2762" RevisionID="1"/>
-    <DeletedTextLocation Offset="2774" RevisionID="1"/>
-    <DeletedTextLocation Offset="2785" RevisionID="1"/>
-    <DeletedTextLocation Offset="2798" RevisionID="1"/>
-    <DeletedTextLocation Offset="2825" RevisionID="1"/>
-    <DeletedTextLocation Offset="2833" RevisionID="1"/>
-    <DeletedTextLocation Offset="2858" RevisionID="1"/>
-    <DeletedTextLocation Offset="2866" RevisionID="1"/>
-    <DeletedTextLocation Offset="2875" RevisionID="1"/>
-    <DeletedTextLocation Offset="2892" RevisionID="1"/>
-    <DeletedTextLocation Offset="2895" RevisionID="1"/>
-    <DeletedTextLocation Offset="2911" RevisionID="1"/>
-    <DeletedTextLocation Offset="2937" RevisionID="1"/>
-    <DeletedTextLocation Offset="2940" RevisionID="1"/>
-    <DeletedTextLocation Offset="2986" RevisionID="1"/>
-    <DeletedTextLocation Offset="3006" RevisionID="1"/>
-    <DeletedTextLocation Offset="3007" RevisionID="1"/>
+    <DeletedTextLocation Offset="2464" RevisionID="1"/>
+    <DeletedTextLocation Offset="2471" RevisionID="1"/>
+    <DeletedTextLocation Offset="2490" RevisionID="1"/>
+    <DeletedTextLocation Offset="2500" RevisionID="1"/>
+    <DeletedTextLocation Offset="2511" RevisionID="1"/>
+    <DeletedTextLocation Offset="2522" RevisionID="1"/>
+    <DeletedTextLocation Offset="2533" RevisionID="1"/>
+    <DeletedTextLocation Offset="2547" RevisionID="1"/>
+    <DeletedTextLocation Offset="2550" RevisionID="1"/>
+    <DeletedTextLocation Offset="2572" RevisionID="1"/>
+    <DeletedTextLocation Offset="2578" RevisionID="1"/>
+    <DeletedTextLocation Offset="2593" RevisionID="1"/>
+    <DeletedTextLocation Offset="2610" RevisionID="1"/>
+    <DeletedTextLocation Offset="2658" RevisionID="1"/>
+    <DeletedTextLocation Offset="2671" RevisionID="1"/>
+    <DeletedTextLocation Offset="2680" RevisionID="1"/>
+    <DeletedTextLocation Offset="2691" RevisionID="1"/>
+    <DeletedTextLocation Offset="2726" RevisionID="1"/>
+    <DeletedTextLocation Offset="2736" RevisionID="1"/>
+    <DeletedTextLocation Offset="2746" RevisionID="1"/>
+    <DeletedTextLocation Offset="2757" RevisionID="1"/>
+    <DeletedTextLocation Offset="2761" RevisionID="1"/>
+    <DeletedTextLocation Offset="2773" RevisionID="1"/>
+    <DeletedTextLocation Offset="2784" RevisionID="1"/>
+    <DeletedTextLocation Offset="2797" RevisionID="1"/>
+    <DeletedTextLocation Offset="2824" RevisionID="1"/>
+    <DeletedTextLocation Offset="2832" RevisionID="1"/>
+    <DeletedTextLocation Offset="2857" RevisionID="1"/>
+    <DeletedTextLocation Offset="2863" RevisionID="1"/>
+    <DeletedTextLocation Offset="2865" RevisionID="1"/>
+    <DeletedTextLocation Offset="2868" RevisionID="1"/>
+    <DeletedTextLocation Offset="2884" RevisionID="1"/>
+    <DeletedTextLocation Offset="2910" RevisionID="1"/>
+    <DeletedTextLocation Offset="2913" RevisionID="1"/>
+    <DeletedTextLocation Offset="2959" RevisionID="1"/>
+    <DeletedTextLocation Offset="2979" RevisionID="1"/>
+    <DeletedTextLocation Offset="2980" RevisionID="1"/>
+    <DeletedTextLocation Offset="2982" RevisionID="1"/>
+    <DeletedTextLocation Offset="2989" RevisionID="1"/>
+    <DeletedTextLocation Offset="2992" RevisionID="1"/>
+    <DeletedTextLocation Offset="2998" RevisionID="1"/>
     <DeletedTextLocation Offset="3009" RevisionID="1"/>
-    <DeletedTextLocation Offset="3016" RevisionID="1"/>
-    <DeletedTextLocation Offset="3019" RevisionID="1"/>
-    <DeletedTextLocation Offset="3025" RevisionID="1"/>
-    <DeletedTextLocation Offset="3036" RevisionID="1"/>
-    <DeletedTextLocation Offset="3056" RevisionID="1"/>
-    <DeletedTextLocation Offset="3091" RevisionID="1"/>
-    <DeletedTextLocation Offset="3095" RevisionID="1"/>
-    <DeletedTextLocation Offset="3099" RevisionID="1"/>
-    <DeletedTextLocation Offset="3103" RevisionID="1"/>
-    <DeletedTextLocation Offset="3124" RevisionID="1"/>
+    <DeletedTextLocation Offset="3029" RevisionID="1"/>
+    <DeletedTextLocation Offset="3064" RevisionID="1"/>
+    <DeletedTextLocation Offset="3068" RevisionID="1"/>
+    <DeletedTextLocation Offset="3072" RevisionID="1"/>
+    <DeletedTextLocation Offset="3076" RevisionID="1"/>
+    <DeletedTextLocation Offset="3097" RevisionID="1"/>
+    <DeletedTextLocation Offset="3158" RevisionID="1"/>
+    <DeletedTextLocation Offset="3175" RevisionID="1"/>
     <DeletedTextLocation Offset="3185" RevisionID="1"/>
-    <DeletedTextLocation Offset="3202" RevisionID="1"/>
-    <DeletedTextLocation Offset="3212" RevisionID="1"/>
-    <DeletedTextLocation Offset="3224" RevisionID="1"/>
-    <DeletedTextLocation Offset="3233" RevisionID="1"/>
-    <DeletedTextLocation Offset="3273" RevisionID="1"/>
+    <DeletedTextLocation Offset="3197" RevisionID="1"/>
+    <DeletedTextLocation Offset="3206" RevisionID="1"/>
+    <DeletedTextLocation Offset="3246" RevisionID="1"/>
+    <DeletedTextLocation Offset="3249" RevisionID="1"/>
     <DeletedTextLocation Offset="3276" RevisionID="1"/>
+    <DeletedTextLocation Offset="3277" RevisionID="1"/>
+    <DeletedTextLocation Offset="3301" RevisionID="1"/>
     <DeletedTextLocation Offset="3303" RevisionID="1"/>
-    <DeletedTextLocation Offset="3304" RevisionID="1"/>
-    <DeletedTextLocation Offset="3328" RevisionID="1"/>
-    <DeletedTextLocation Offset="3330" RevisionID="1"/>
-    <DeletedTextLocation Offset="3340" RevisionID="1"/>
+    <DeletedTextLocation Offset="3327" RevisionID="1"/>
   </DeletedText>
 
   <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="0">
-    <ScriptPanel DisplayMode="Page">
+    <ScriptPanel DisplayMode="Normal">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
     </ScriptPanel>
   </SplitState>
@@ -1104,7 +1110,7 @@
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="2470" ZoomLevel="123.500">
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="1350" ZoomLevel="67.500">
       <Lanes>
         <Lane Id="51a5f786-b312-4c43-a66f-31f3758808ee" Label="Outline 1" Level="7" Type="Outline 1"/>
         <Lane Id="bbf0cfbe-939c-4a75-8ddb-b3e352ac7ed6" Label="Outline 2" Level="5" Type="Outline 2"/>
