@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20240914T194946" id="da15bd54-2f8d-4ba2-956b-f938fd56fbea">
+    <XRef DateTime="20240914T182034" id="37fda82c-2169-47af-b0f5-4795e8cb4782"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Scene Heading" id="5982609c-8638-454f-805d-d01611279451">
+      <SceneProperties Length="4 7/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DR. LUCINDA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MARY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PRIYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIM">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. EXAM room - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9ca3c7b6-741f-4ba5-b079-0867fe6b6a2e">
+      <Text>A beautiful sunny day in a podiatrist’s office. The exam room walls have posters of different foot abnormalities. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9ca3c7b6-741f-4ba5-b079-0867fe6b6a2e">
+      <Text AdornmentStyle="-1">PRIYA</Text>
+      <Text> sits on a chair next to the exam table. She wears a monochromatic navy-blue joggers suit and brand new white </Text>
+      <Text AdornmentStyle="-1">HOKA</Text>
+      <Text> sneakers. She’s holding a black hand bag.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4f99ea4f-2006-4a47-a4c1-4a4acb5b36df">
+      <Text>We hear CONSTRUCTION NOISES in the background.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="15a74f18-e7bd-46fe-8de8-5f6dcd7685e1">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b33c28b4-2fbb-435b-b33a-cd8cba0541c9">
+      <Text>Where is the doctor?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2935bf49-b106-40d0-9448-04413d716188">
+      <Text>Knock knock. TIM walks in with a yellow notepad and a pencil tucked behind his ear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e1ccc7cd-9b36-436f-af7b-538c4f27cd29">
+      <Text>TIM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="613818e7-ed56-4dd4-bbdf-875d15b721d3">
+      <Text>Hiya! My name’s Tim and I’ll be taking care of you. What are you in here for today?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b0f26d0c-44bc-4cbc-843e-5587e53e7030">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="511e53ac-e028-4b3b-8ac3-4bc592be9b12">
+      <Text>I’ve got something weird growing on my foot. It’s been going on for a week now, and it’s really affecting my work.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7d827866-f045-4096-8846-ddf1afb1749a">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6a3824a1-1ed4-4d29-91d8-47b89ff6ec1b">
+      <Text>Ah, and what is it that you do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="53fe9b6f-c7d7-411d-b79c-33ba6f5758ac">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ed84330d-ed3c-4592-aeec-b889611f5fa6">
+      <Text>I’m a foot model on OnlyFans and I need this foot looking clean before my next photo shoot in an hour.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="518dc5f1-d993-454c-9c34-46694a053465">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3a246c77-b1ae-4294-bb92-0ae9b6bb0792">
+      <Text>I see. I’ll make sure that the doctor knows this is top priority. Let’s get this foot problem fixed. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="504d436b-e445-44f0-995d-de3c4c16a2ce">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3f653b6d-1da3-4c73-a05b-d76641eb048d">
+      <Text>You’re not the doctor?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c43c15bb-36a8-4e82-822e-a7b98f2af6f8">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="71b4f944-79d4-4911-9fdd-46dd1fb56f09">
+      <Text>Oh, no, I’m the care specialist here. I just get to know the patients so the doctor doesn’t have to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="71b1d455-1206-4565-a304-d466b522437e">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3822b5d1-8a17-4549-b470-99c65cabe4c4">
+      <Text>It’s been an hour since the medical assistant came in. Where. Is. The doctor?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d6269a97-993e-4516-896d-1b2d66f1116e">
+      <Text>Knock knock. DR. LUCINDA walks in. She wears a white lab coat and has a warm smile.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="69338217-8b97-4290-a6d2-ad0e8b1d1e5c">
+      <Text>DR. Lucinda</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1320865e-1199-4a22-bc0c-5fb57bc882be">
+      <Text>I see our patient her has become impatient.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9fd2ae07-56ec-4150-9465-5db83b124584">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="75e0911f-361d-4ebf-99a6-1f8bbba3284e">
+      <Text>I’m sorry, doctor, I’m just late for my photo shoot -</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="794216ff-1952-408a-8288-ee145574a26b">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6963f8b9-09db-4923-abf6-85efa8073634">
+      <Text>She’s on OnlyFans. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="3b35e8f9-c3d9-4281-afe6-9eca522012a5">
+      <Text>(beat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6963f8b9-09db-4923-abf6-85efa8073634">
+      <Text>Uh, wait, it’s not how it sounds, she told me that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9a1a1563-dd7b-4859-9ca8-1824ad5ddba9">
+      <Text>Dr. Lucinda</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c08f81c4-1918-4073-8bc7-5f5c750e7167">
+      <Text>Timothy, our patient has a right to privacy. Now (turns to </Text>
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text>), how do you feel?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a8458aa4-0353-4d60-a45d-82fcc024096e">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3a63352c-88bb-4e2b-9802-bc007d88dbdf">
+      <Text>My foot doesn’t hurt - </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="1623b785-0ddd-4fd1-a8e4-62566254253a">
+      <Text>(she removes her sneaker)</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c939851e-4ae4-4ff0-bd2f-3a9d2fdabfdf">
+      <Text>Dr. LUCINDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="01300cd7-65c8-495c-895e-185f314b7629">
+      <Text>No, I mean in here</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="b9e6e32e-8fa2-4a27-83ed-5eec34a9e7c6">
+      <Text>(points to her own heart)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b7add348-4775-437c-a3cd-a64e6b5b55e2">
+      <Text>In the background, we hear a SAW cutting through something.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6c7d1cc7-e858-4bbc-944f-7ec335223c87">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb708a3b-8e39-4772-ae58-b6ff3fb07990">
+      <Text>Wait, what. I thought you were a doctor?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="732daf7a-0e35-4ddd-bb1d-3c96b532793f">
+      <Text>Dr. LUCINDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="264645ae-28bf-4821-bc8f-a640d47e1c01">
+      <Text>I am! </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="25af9f50-fd98-4e77-b5a5-4e54e7b34945">
+      <Text AdornmentStyle="-1">PrIYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7b085297-756e-400c-a56d-b5b888384cef">
+      <Text>What is it that you do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9243d8e5-2b1b-46df-aa5b-33c794a2f84b">
+      <Text>Dr. LUCINDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e49365b-1f68-493a-a5c5-96cc8ce4a398">
+      <Text>I’m a therapist of course! We here at Hearth Clinics find that our appointments with our patients do best if they FEEL their best. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7722be46-b602-4dd0-ae6f-153a60cbeecc">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2406df67-3cb4-463a-bbd6-ecbf863a7889">
+      <Text>We work together, to make sure you feel good from head to toe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e0d5fad4-05cd-4af1-9ba0-d92d2f5e6a5f">
+      <Text>Dr. LUCINDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="efb8a1d8-015c-481c-b37e-cc71490be8b4">
+      <Text>We believe in a holistic approach.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="896070df-5aba-4d6b-8d13-d126c5bf19a1">
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> looks at her watch and grabs her bag, shaking her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa6cc79d-3ce8-4126-97f7-7d3f6671a6f1">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="68e94cce-d941-483e-87c6-5d2b1adc779a">
+      <Text>This is ridiculous, I just need to see an MD-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="02b9711a-e019-490f-9cf9-33fb803a4530">
+      <Text>Dr. LUCINDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3efe428e-b326-49f8-a216-1bc54e00f8fc">
+      <Text>I can see if the Managing Director is in today.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="47859c2d-a4db-40b6-bff5-6f4db622fed9">
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> groans.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="30b97cdc-0194-4226-af53-ad32bdcc8c6f">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b715f5a6-470a-4bdf-a0bc-f0b52aa6c4cf">
+      <Text>Doctor, she means Maryland.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f61ec2a0-bd85-4d05-84a6-9fbb49840463">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9c2ba571-d1ea-404d-9aa7-658eed352a63">
+      <Text>I need a medical doctor, you know, someone who can fix THIS.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6d65eaaa-8d08-4976-b5dc-7109c51e4ddf">
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> rips off her sock and shows them the growth on her big toe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5e53e83f-b8e6-4a20-a557-9db1c74306e4">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5923067f-de54-4241-ac37-5f8ff3bdd1c1">
+      <Text>Oh, my, you should get that taken care of instead of going to see Maryland.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66dbcbee-f709-464a-a3e3-bf3a596adb4d">
+      <Text>Dr. Lucinda sympathetically nods in agreement. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9f98f3d1-efd2-4e38-8c2c-01b1a43e5b36">
+      <Text>Dr. LUCINDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a321c9cb-6300-43ac-9720-7c2e05c7610f">
+      <Text>It’s not that great. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0bf73281-f151-4028-a0ac-84aebee8a3c9">
+      <Text AdornmentStyle="-1">PRIYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1ec29b65-d128-4c91-a413-7ba36e51751b">
+      <Text>That’s why I’m here! I just need to see the doctor and get the cream. No therapy, no care, no feelings - </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b525937e-18d5-4a8a-8776-6053bd7acf86">
+      <Text>Knock. Knock. MARK, a tall, handsome man, walks into the crowded exam room. He swings the door open.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8fb084a3-27ee-4fe2-8309-3442108aa62f">
+      <Text>Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="49c295a6-64ca-4459-9036-f5fb4c74a19b">
+      <Text>Hello, I’m Mark. Who am I working with today?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b500f0b4-3ec2-4a26-a80e-6c1f8f72b974">
+      <Text>He looks around at the three people in the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="838d3700-2380-4034-8695-3c4d5f37cdb8">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a98e338e-9fc1-48f6-b62f-f4ce3c2c2350">
+      <Text>Hi, Dr. Mark, I’m </Text>
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> -</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ccf2fe0b-f1d0-4871-bdd4-5c7092d876ff">
+      <Text>Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f927700b-f0a2-4f5d-8c79-d29917cf37fe">
+      <Text>Hi, </Text>
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text>. I’m actually not the doctor, I’m with the billing department.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bc6e9935-663d-478d-8852-ed8b08098987">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="244136b1-4c96-4b5d-bc9c-42076b9bc273">
+      <Text>BILLING? How can I pay for appointment that hasn’t even started?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3311535b-8ef9-496f-9a9e-0086b7f2d5b8">
+      <Text>Dr. LUCINDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2a710e62-51cf-4874-8f04-02d5cd30d1f9">
+      <Text>Mark, she’s waiting to see the Managing Director.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="77516511-a325-44dd-acce-dc0dd9946dde">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="10039b28-5340-4d1a-9f31-3a51391b1be1">
+      <Text>She needs to go to Maryland.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fdb00895-54f5-49d7-aaca-5ef21af02b82">
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> grabs her bag and grabs her sock and shoe from the floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8d2d7003-d027-4cdf-89cf-7cad8c9ff318">
+      <Text AdornmentStyle="-1">PriYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="57a18bd5-c62d-4273-8079-3be4877a1cc2">
+      <Text>I’ve had it. This is completely ridiculous. Sir (turns to Mark) I’ve been waiting for the doctor for an HOUR, and these clowns (points to Tim and Dr. Lucinda) have wasted my time -</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="069d2b0e-d0d6-49c3-8ed1-c4c2392f30e7">
+      <Text>MARY, a petite woman, holds a clipboard and walks through the open door. She reads notes from the clipboard and doesn’t notice who is in the room as she walks in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="152f4767-c99b-451a-98a6-af844f040b65">
+      <Text>Mary</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c34d144f-f33f-4c4b-b952-a78b913a1452">
+      <Text>(reads)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f1b65fe3-f7f8-4275-a2f1-6f1182035065">
+      <Text>Ok, so what are you in here for today, Miss -</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e488e084-1450-4508-a45a-f5e893047a31">
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> gets up from the chair and puts her bare foot on the ground. Her sock and shoe are in her right hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cd6a4068-edc5-4553-85f2-d356559bdfe3">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5b124c81-3072-44a4-ac1d-c85d8d831f1b">
+      <Text>That’s ENOUGH (wags her hand holding the shoe at Mary). This is a complete CIRCUS -</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a46d96af-8c92-43b4-b410-b910e277cd05">
+      <Text>Mary</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0d432634-394a-4fd1-af9d-cabe7022f63c">
+      <Text>Now, listen </Text>
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text>, I know it can be a long wait, but we just want to make sure our patients are taken -</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ad634a30-bd84-43c1-9797-d552eb6fb1b7">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="50050f7f-df9b-44a3-83c9-c4bb1885f67b">
+      <Text>No, you listen here. I don’t care about the 10 million services you all provide. I don’t need a therapist, or someone from billing, or a director -</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3f6a0da4-9187-46d3-8359-0edea7219244">
+      <Text>Mary</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="418ce19b-4824-495e-a42f-c53c1960a0e0">
+      <Text>- now, listen, we don’t tolerate disrespect at this clinic. We are here to treat you -</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="297a8402-6a95-400e-8223-fd29ac6931b2">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="167824db-1c43-4e9e-9a51-1bb3fa9797df">
+      <Text>Medically. I need to be treated MEDICALLY.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fb0b6e80-3b83-4c5a-8ea0-eeefe39ab7fa">
+      <Text>Mary</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8f0079d-f3fc-40fe-81b9-2b5e369711d5">
+      <Text>That’s what I’m trying to say. I’m your doctor, and I’m here to start your appointment. Are you ok with (checks clipboard) </Text>
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="649a0b72-277f-4f81-951d-481823c7d19f">
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> lowers her hand and nods. She sits down on the chair. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dbecc168-3472-4ffa-9cb7-553fa58b9c41">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eea85228-0ef5-4cc5-a12c-03a9b6f8e777">
+      <Text>See, my problem is that -</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="434fa241-d267-48ed-b4ca-2cda3c7dcc0d">
+      <Text>All of a sudden, the ceiling collapses and a electric chainsaw crashes down on the floor -</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="27d4cafe-ecc9-4156-9181-747a506570d9">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4b476984-4293-4fc1-99df-4cf547fa8f8c">
+      <Text AdornmentStyle="-1">OWWWW</Text>
+      <Text>!!!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cef22f1c-a04c-4311-9d27-835e7a885ed0">
+      <Text>- and onto </Text>
+      <Text AdornmentStyle="-1">Priya’s</Text>
+      <Text> foot, severing her exposed big toe from her foot.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="05583b35-c273-4995-b349-5124bf1fc5f0">
+      <Text>Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0c437bb2-a9b7-426b-9c20-35cb0b9eba83">
+      <Text>Oh my, you should get that taken care of.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="13fccc1a-add0-4b8f-8b47-1e160bf003cc">
+      <Text>Dr. LUCINDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7a91306d-4371-4071-804b-25beb06593ef">
+      <Text>How do you feel? </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="367a9f91-83c0-4d9a-901e-af6f985bfd8b">
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> moans and holds her toe. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="55c92a96-92d3-4a2c-aac5-2ef457bbfda4">
+      <Text AdornmentStyle="-1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6860c3e0-8544-4999-8acd-15edba291989">
+      <Text>My career is over!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e3716a4-6742-430c-aab3-146040d3ce89">
+      <Text>Mary</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5f857644-a651-4809-a005-975ea429e04c">
+      <Text>Now, listen, you’ll land on your feet. Let’s start with what you came in here for?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c9d79b3a-b923-4816-ad38-2cac56c0a0dc">
+      <Text AdornmentStyle="-1">Priya</Text>
+      <Text> turns to her and stares.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cec6db03-2c66-42dd-aa72-a26a893bdec8">
+      <Text>Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="166e531e-d50f-4cdf-9a5e-c5df5b5ae82f">
+      <Text>We will still bill you for that.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#RRRRGGGGBBBB" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Collated Revisions"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#RRRRGGGGBBBB" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="1320" Left="0" Mode="Normal" Top="95" Width="2240"/>
+
+  <TextState Scaling="175" Selection="278,278" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.12" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.62" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#RRRRGGGGBBBB" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Script Title</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Name of First Writer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Based on, If Any</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Address</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phone Number</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Priya</Character>
+      <Character>TIM</Character>
+      <Character>Lucinda</Character>
+      <Character>Dr. Lucinda</Character>
+      <Character>LAZLO</Character>
+      <Character>Mary</Character>
+      <Character>Mark</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>EXAM ROOM</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="Yes" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="0">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Priya"/>
+    <Member Actor="" Character="TIM"/>
+    <Member Actor="" Character="Lucinda"/>
+    <Member Actor="" Character="Dr. Lucinda"/>
+    <Member Actor="" Character="LAZLO"/>
+    <Member Actor="" Character="Mary"/>
+    <Member Actor="" Character="Mark"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="DR. LUCINDA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MARK" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MARY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PRIYA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="TIM" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="241eac79-60d1-41e1-a8f7-be90d14e6640"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="2470" ZoomLevel="123.500">
+      <Lanes>
+        <Lane Id="51a5f786-b312-4c43-a66f-31f3758808ee" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="bbf0cfbe-939c-4a75-8ddb-b3e352ac7ed6" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab Selected="Yes" id="241eac79-60d1-41e1-a8f7-be90d14e6640"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
