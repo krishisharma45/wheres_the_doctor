@@ -8,7 +8,7 @@
 
   <Content>
     <Paragraph Type="Scene Heading" id="5982609c-8638-454f-805d-d01611279451">
-      <SceneProperties Length="3 2/8" Page="1" Title="">
+      <SceneProperties Length="5" Page="1" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="DR. TERESA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -30,107 +30,240 @@
       <Text>INT. EXAM room - day</Text>
     </Paragraph>
     <Paragraph Type="Action" id="9ca3c7b6-741f-4ba5-b079-0867fe6b6a2e">
-      <Text>A beautiful sunny day in a podiatrist’s office. The exam room walls have posters of different foot abnormalities. </Text>
+      <Text>A normal day in a podiatrist’s office. The exam room walls have posters of different foot abnormalities. </Text>
     </Paragraph>
     <Paragraph Type="Action" id="9ca3c7b6-741f-4ba5-b079-0867fe6b6a2e">
       <Text AdornmentStyle="-1">PRIYA</Text>
-      <Text> sits on a chair next to the exam table. She wears a monochromatic navy-blue joggers suit and brand new white </Text>
-      <Text AdornmentStyle="-1">HOKA</Text>
-      <Text> sneakers. She’s holding a black hand bag.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="15a74f18-e7bd-46fe-8de8-5f6dcd7685e1">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="b33c28b4-2fbb-435b-b33a-cd8cba0541c9">
-      <Text>Where is the doctor?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="d8fc8e98-b120-480e-b36b-270f0e9157ad">
-      <Text RevisionID="1">We hear CONSTRUCTION NOISES coming from above. </Text>
-      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
-      <Text RevisionID="1"> looks up.</Text>
+      <Text> </Text>
+      <Text RevisionID="3">wears a fashionable dress, Samba shoes and</Text>
+      <Text> a black hand bag</Text>
+      <Text RevisionID="3">. She</Text>
+      <Text> taps her fo</Text>
+      <Text RevisionID="3">o</Text>
+      <Text>t</Text>
+      <Text RevisionID="3"> as she sits on the chair and waits.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="2935bf49-b106-40d0-9448-04413d716188">
-      <Text>Knock knock. TIM walks in with a yellow notepad and a pencil tucked behind his ear.</Text>
+      <Text>KNOCK KNOCK. TIM </Text>
+      <Text RevisionID="3">enters. He </Text>
+      <Text>wears </Text>
+      <Text RevisionID="3">a navy blue pair of scrubs and holds a yellow notepad.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="e1ccc7cd-9b36-436f-af7b-538c4f27cd29">
       <Text>TIM</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="613818e7-ed56-4dd4-bbdf-875d15b721d3">
-      <Text>Hiya! My name’s Tim and I’ll be taking care of you. What are you in here for today?</Text>
+      <Text>Hiya! My name’s Tim</Text>
+      <Text RevisionID="3">. </Text>
+      <Text>What are you in here for today?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c6d5cced-af36-40c8-b0d5-bba3afb858a0">
+      <Text RevisionID="3">He</Text>
+      <Text> sits on that tiny little stool doctors usually sit on.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="b0f26d0c-44bc-4cbc-843e-5587e53e7030">
       <Text AdornmentStyle="-1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="511e53ac-e028-4b3b-8ac3-4bc592be9b12">
-      <Text RevisionID="1">Hi, </Text>
-      <Text>I’ve got something weird growing on my foo</Text>
+      <Text RevisionID="3">H</Text>
+      <Text>i Dr. Tim</Text>
+      <Text RevisionID="3">, I’m </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text>. </Text>
+      <Text>I’m in today because I’ve got something weird growing on my </Text>
+      <Text RevisionID="3">right </Text>
+      <Text>foo</Text>
       <Text RevisionID="1">t.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="518dc5f1-d993-454c-9c34-46694a053465">
       <Text>Tim</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="3a246c77-b1ae-4294-bb92-0ae9b6bb0792">
+    <Paragraph Type="Dialogue" id="25173fca-e5b7-4154-85c9-0bfe2ea0e9b4">
       <Text RevisionID="1">Is it a toenail? </Text>
-      <Text> </Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="01e6d9bd-ad69-438e-a9a2-9c41ee5be9ba">
-      <Text RevisionID="1">(chuckles)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="11409afa-6bd6-4de1-9689-5853d9528bf3">
-      <Text RevisionID="1">We’ll have the doctor come in shortly.</Text>
+    <Paragraph Type="Action" id="5eaf0d12-492e-413b-aa44-72e80c352404">
+      <Text RevisionID="3">Tim chuckles to himself and scribbles on the notepad.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="504d436b-e445-44f0-995d-de3c4c16a2ce">
       <Text AdornmentStyle="-1">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="3f653b6d-1da3-4c73-a05b-d76641eb048d">
-      <Text>You’re not the doctor?</Text>
+    <Paragraph Type="Dialogue" id="b00653ef-a723-4d44-b298-63619d1b3d6c">
+      <Text RevisionID="3">It’s actually fungi-</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c43c15bb-36a8-4e82-822e-a7b98f2af6f8">
       <Text>Tim</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="71b4f944-79d4-4911-9fdd-46dd1fb56f09">
-      <Text>Oh, no, I’m </Text>
-      <Text RevisionID="1">part of your care team. I’ll bring the doctor in shortly.</Text>
+      <Text RevisionID="3">What’s wrong with a fun guy? </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d0ec6d86-062c-4e05-9a31-0c4d653e8b58">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> starts to take off her shoe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5f7c7ea8-0fda-48fb-905e-2256f6c0bc2b">
+      <Text RevisionID="3">Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="71b4f944-79d4-4911-9fdd-46dd1fb56f09">
+      <Text RevisionID="3">Whoa, put that back, I don’t want to see it. I specialize in laugh therapy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7a35a5ae-a69f-4f48-bde5-44710921d7a8">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="abf8fdd5-d4ca-4a2a-a0c7-ca148c1abcd3">
+      <Text RevisionID="3">You’re not the doctor?</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="3822b5d1-8a17-4549-b470-99c65cabe4c4"/>
     <Paragraph Type="Action" id="d6269a97-993e-4516-896d-1b2d66f1116e">
-      <Text RevisionID="1">Tim leaves the room.</Text>
+      <Text RevisionID="3">KNOCK KNOCK</Text>
+      <Text>. </Text>
+      <Text RevisionID="3">The door swings open. MARK, a tall man with a clean shaven face walks in. He wears purple scrubs and holds a smart phone with a small receipt printer attached. </Text>
     </Paragraph>
-    <Paragraph Type="Action" id="d6269a97-993e-4516-896d-1b2d66f1116e">
-      <Text>Knock knock. LUCINDA walks in. She wears a white lab coat and has a warm smile.</Text>
-      <Text RevisionID="1"> She closes the door behind her.</Text>
+    <Paragraph Type="Character" id="22ed8a34-546c-4ffe-ab7d-7eec17187116">
+      <Text RevisionID="3">Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="04a9d80a-3235-429e-82de-89fa646b03ab">
+      <Text RevisionID="3">Hello, how’s our patient doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="25af9f50-fd98-4e77-b5a5-4e54e7b34945">
+      <Text AdornmentStyle="-1" RevisionID="3">PrIYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7b085297-756e-400c-a56d-b5b888384cef">
+      <Text RevisionID="3">Hi, I’m </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3">, I’m here because-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2fb69bd5-72b6-4343-b864-e66f551728d5">
+      <Text RevisionID="3">Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b206b2af-b6cc-4ea3-9f7a-6b3433638a34">
+      <Text RevisionID="3">Whoa, whoa, whoa </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3">.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f3bb95f2-ad84-40b5-994e-95a7a0752b65">
+      <Text RevisionID="3">Mark holds up his hand to stop her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa93e99a-8538-40aa-8dac-e6cea1b40640">
+      <Text RevisionID="3">Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d70ca88b-010c-4523-854e-d16163e5e130">
+      <Text RevisionID="3">I’m with billing. I don’t get involved with the actual problem. I just make you pay for it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5823dd43-200f-4f54-bc8a-245b5e360b9f">
+      <Text RevisionID="3">Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b6c0013f-32c1-414b-ae49-0f8e8b3ed1aa">
+      <Text RevisionID="3">He’s here to make sure you foot the bill. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bfbf6314-e371-46f3-93f9-596f8ed95be2">
+      <Text RevisionID="3">Tim chuckles and playfully elbows Mark. Mark laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="56ddc0b8-8652-4c6c-a990-c6cc4d381f9c">
+      <Text RevisionID="3">Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="707f2472-9888-4c9b-8a39-94a275c072cf">
+      <Text RevisionID="3">(to Tim)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="87e6e08d-eda1-4215-bb6d-a7221ddfcb60">
+      <Text RevisionID="3">Some patients just think they can bring in their problems for free.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c306a98-8df0-4728-8d95-101f32b7a142">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9d0b0d6f-8b75-4349-a2d4-d7aff5c25662">
+      <Text RevisionID="3">I don’t want a free appointment. I just want to pay after I’ve got the solution. You know, after I’ve seen an actual doctor?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cb05a7ad-8b70-49f3-84d5-54c240da67b6">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> looks at Tim and Mark. Mark prepares to break some bad news.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9815fd72-bceb-45df-8b9a-e706f7390629">
+      <Text RevisionID="3">Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6a37f188-e362-4800-903a-f4bce21f0d35">
+      <Text RevisionID="3">Yeah, listen. That’s not covered by your insurance.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="71d34ee5-93fa-4603-9ce6-89fc7c06c5ad">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> waves her hands in the air out of exasperation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="069c701c-b970-41a5-b97b-ec7a11162232">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0b7986da-66c9-4cff-bc56-81d09f8e5623">
+      <Text RevisionID="3">What does insurance even cover? It doesn’t matter, you guys apparently don’t even have a DOC-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7334d6d6-0485-450d-83c4-782ac04f9252">
+      <Text RevisionID="3">KNOCK KNOCK. LUCINDA, a woman with a motherly aura, walks in. She wears bright pink scrubs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e422ce0-ad23-4cf2-92e5-b23a89d74bef">
+      <Text RevisionID="3">tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="117ffc29-ccba-4e99-8891-d8d2a3b6385e">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3">, you almost put your foot in your mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="25245642-4c95-4444-a777-df5ca5ca034b">
+      <Text RevisionID="3">Lucinda walks in. Tim gets up from the little doctor’s stool and she sits down. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f8b8d5e1-ab4a-45ef-ba24-52b0f7cab9c9">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="67ed5f67-35dd-4d73-abce-5308999307f8">
+      <Text RevisionID="3">Hi, doctor. You </Text>
+      <Text RevisionID="3" Style="Italic">are</Text>
+      <Text RevisionID="3"> a doctor, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d0cb32b4-fd85-45b5-9edf-e57d2f9c459b">
+      <Text RevisionID="3">Lucinda</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="684ee852-6198-4536-9047-1678a7e68c74">
+      <Text RevisionID="3">I’m Dr. Lucinda, how are you feeling?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b80b0859-3905-46ce-aeaa-df770e196ea4">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> breathes a sigh of relief.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1355b054-cd4a-469f-a59f-c89a0b3385f7">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="559efcf0-0847-4b3f-9c98-2a25686457fc">
+      <Text RevisionID="3">Something’s growing on my right foot. It’s easier if I just show-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ca0196e5-3a07-417c-a205-091d97d3c4f8">
+      <Text RevisionID="3">She kicks off her shoe.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="69338217-8b97-4290-a6d2-ad0e8b1d1e5c">
       <Text>Lucinda</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="75e0911f-361d-4ebf-99a6-1f8bbba3284e"/>
     <Paragraph Type="Dialogue" id="c08f81c4-1918-4073-8bc7-5f5c750e7167">
-      <Text RevisionID="1">Hi, I’m Lucinda and I’m here to take care of you. How are you feeling?</Text>
+      <Text RevisionID="3">Honey, it’s rude to take your shoe off in front of strangers!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4e834a9b-0e8c-48a0-882e-7feb0dc691dd">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> stops midway.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a8458aa4-0353-4d60-a45d-82fcc024096e">
       <Text AdornmentStyle="-1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="3a63352c-88bb-4e2b-9802-bc007d88dbdf">
-      <Text>My </Text>
-      <Text RevisionID="1">foot has been in pain lately.</Text>
+      <Text RevisionID="3">Aren’t you a foot doctor?</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="1623b785-0ddd-4fd1-a8e4-62566254253a">
-      <Text>(she removes her sneaker)</Text>
+    <Paragraph Type="Character" id="d23cc6ce-2233-4e93-b0cc-25c050e57170">
+      <Text RevisionID="3">Lucinda</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="b84f1f8b-17d9-4f6a-ba3b-db087869864b">
-      <Text RevisionID="1">Lucinda motions her to stop.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c939851e-4ae4-4ff0-bd2f-3a9d2fdabfdf">
-      <Text>LUCINDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="01300cd7-65c8-495c-895e-185f314b7629">
-      <Text RevisionID="1">I don’t handle medical issues, I’m not a doctor sweetheart. </Text>
+    <Paragraph Type="Dialogue" id="60255ad6-3498-4560-bc73-877b26a87c27">
+      <Text RevisionID="3">Of course I am! But I don’t handle  the issue </Text>
+      <Text RevisionID="3" Style="Italic">medically</Text>
+      <Text RevisionID="3">. </Text>
     </Paragraph>
     <Paragraph Type="Character" id="f270dd2c-556a-4539-bbd4-4d437e3f5cb8">
       <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="0a0eb993-30a4-458f-9e12-357fe129ae58">
-      <Text RevisionID="1">Well, then what are you? </Text>
+      <Text RevisionID="1">Well, then what </Text>
+      <Text RevisionID="3">DO you do</Text>
+      <Text RevisionID="1">? </Text>
     </Paragraph>
     <Paragraph Type="Action" id="dbe54665-a6d6-4b67-8b76-f5ed50db5224">
       <Text RevisionID="1">Lucinda walks towards a poster of a foot with a bunion. She points to the bunion.</Text>
@@ -148,110 +281,121 @@
       <Text>head</Text>
       <Text RevisionID="1">)</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="442f41f8-ea5e-4d50-9e72-a94ac5ec6f85">
+      <Text RevisionID="3">Tim</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue" id="10ae8462-32af-4561-a18d-b62c1d4119ab">
-      <Text RevisionID="1">So we treat patients head to toe.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="63cce6a2-8d27-4cbc-8caf-6eb5d8054541">
-      <Text AdornmentStyle="-1" RevisionID="1">PriYA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="1b01d394-02dc-4ea7-8f33-2576f62c3e71">
-      <Text RevisionID="1">Are you a THERAPIST?</Text>
+      <Text RevisionID="3">W</Text>
+      <Text RevisionID="1">e treat patients head to toe.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="0b256f1f-fdd9-4fe5-957b-37554a50f347">
       <Text RevisionID="1">Lucinda</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="28141135-22dd-4890-812f-a78a6b5f77a0">
-      <Text RevisionID="1">We believe in a holistic approach.</Text>
+      <Text RevisionID="3">It’s</Text>
+      <Text RevisionID="1"> a holistic approach.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="337465cc-43f5-43af-a6b6-1de6bf761460">
+      <Text RevisionID="3">Lucinda gives her a warm smile. </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> musters a polite smile.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="443a177b-9e73-4f92-9fa3-de44051e90f2">
       <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="14825885-73ee-40cc-b350-f201ddb36c70">
-      <Text RevisionID="1">Not to sound rude, but I just need like a cream or something. It’s not that serious. Where is the doctor?</Text>
+      <Text RevisionID="1">Not to sound rude, but </Text>
+      <Text RevisionID="3">I don’t need all of this.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="b7add348-4775-437c-a3cd-a64e6b5b55e2">
-      <Text>In the background, we hear a SAW cutting through something.</Text>
+    <Paragraph Type="Action" id="5dad84b5-ddbe-42ff-9607-f4d44b7e5f20">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> puts her shoe back on her right foot.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="732daf7a-0e35-4ddd-bb1d-3c96b532793f">
-      <Text AdornmentStyle="-1" RevisionID="1">priya</Text>
+    <Paragraph Type="Character" id="7eb872ae-5616-47d4-b318-40880584ad1c">
+      <Text RevisionID="3">Mark</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="264645ae-28bf-4821-bc8f-a640d47e1c01">
-      <Text RevisionID="1">Am I even in the right place? Where is - </Text>
+    <Paragraph Type="Dialogue" id="989d5003-e23f-47d2-a8e0-0e938178cdef">
+      <Text RevisionID="3">Actually, this part </Text>
+      <Text RevisionID="3" Style="Italic">is</Text>
+      <Text RevisionID="3"> covered by insurance.</Text>
     </Paragraph>
+    <Paragraph Type="Dialogue" id="264645ae-28bf-4821-bc8f-a640d47e1c01"/>
     <Paragraph Type="Action" id="dbce1615-b9bc-4824-9738-5baa95841955">
-      <Text RevisionID="1">Knock knock. The door swings open. MARK, a tall man with a clean shaven face wears a button down shirt. He steps in.</Text>
+      <Text RevisionID="3">KNOCK KNOCK. </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> groans.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="22ed8a34-546c-4ffe-ab7d-7eec17187116">
-      <Text RevisionID="1">Mark</Text>
+    <Paragraph Type="Character" id="793afd60-073c-4ed6-a198-f6a7004b4b3c">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="04a9d80a-3235-429e-82de-89fa646b03ab">
-      <Text RevisionID="1">Hello Lucinda, how’s our patient doing?</Text>
+    <Paragraph Type="Dialogue" id="316a4472-1907-4cf0-aff6-cf3ca37538e4">
+      <Text RevisionID="3">Oh, for the love of God, who is it-</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="25af9f50-fd98-4e77-b5a5-4e54e7b34945">
-      <Text AdornmentStyle="-1">PrIYA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="7b085297-756e-400c-a56d-b5b888384cef">
-      <Text RevisionID="1">Hi, I’m </Text>
-      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
-      <Text RevisionID="1">, I’ve been waiting for the doctor. I just need them to look at my foot. Are you the doctor?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="2fb69bd5-72b6-4343-b864-e66f551728d5">
-      <Text RevisionID="1">Mark</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="b206b2af-b6cc-4ea3-9f7a-6b3433638a34">
-      <Text RevisionID="1">I wish, I’m from the billing department. </Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="71d34ee5-93fa-4603-9ce6-89fc7c06c5ad">
-      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
-      <Text RevisionID="1"> waves her hands in the air out of exasperation.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="069c701c-b970-41a5-b97b-ec7a11162232">
-      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="0b7986da-66c9-4cff-bc56-81d09f8e5623">
-      <Text RevisionID="1">Billing? How can I pay for an appointment that hasn’t happened?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="7334d6d6-0485-450d-83c4-782ac04f9252">
-      <Text RevisionID="1">Mark sits on the exam table and motions at her with both hands.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="6e422ce0-ad23-4cf2-92e5-b23a89d74bef">
-      <Text RevisionID="1">Mark</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="117ffc29-ccba-4e99-8891-d8d2a3b6385e">
-      <Text RevisionID="1">Now I don’t want to put my foot in my mouth, but you seem unaware of typical medical visits. Usually the patient does have to pay for the services.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="f8b8d5e1-ab4a-45ef-ba24-52b0f7cab9c9">
-      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="041bdd69-5ccc-4dd7-9571-fe19aa109dc6">
-      <Text RevisionID="1">I will. Once I finish my appointment. Where. IS. THE DOCTOR?!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="02c74fe2-8e93-4ba9-a393-5f3d50dee2c6">
-      <Text RevisionID="1">The door bursts open and a DR. TERESA, small woman with mousy brown hair rushes in. She takes a look around the crowded exam room.</Text>
+    <Paragraph Type="Action" id="7c1baf1a-a0fe-498f-98ba-83a839aa7ee4">
+      <Text RevisionID="3">DR. TERESA opens the door. She wears a long, cream colored tunic dress and has a calming presence. There’s a crystal around her neck.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="5ee7624d-c87c-4502-868f-f2129a78b888">
       <Text RevisionID="1">DR. TERESA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="c31245a7-fcfb-42bf-8696-fb2cfc52d84c">
-      <Text RevisionID="1">Hi, I heard some yelling. Is everything okay here?</Text>
+      <Text RevisionID="1">I heard some yelling. Is everything okay </Text>
+      <Text RevisionID="3">in </Text>
+      <Text RevisionID="1">here</Text>
+      <Text RevisionID="3"> with our patient?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e7acf010-11ca-45e0-82b9-978d1185e0ca">
+      <Text RevisionID="3">Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e7fed176-747d-42b1-a9b4-ed44c9d7b9ea">
+      <Text RevisionID="3">She’s not patient, she’s </Text>
+      <Text RevisionID="3" Style="Italic">im</Text>
+      <Text RevisionID="3">patient.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="afdfbb03-1e04-4741-886e-24772ebaaf1f">
-      <Text RevisionID="1">Mark</Text>
+      <Text RevisionID="3">mark</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="f31d2050-54ad-4e2c-b0de-cbe02f45e717">
+      <Text RevisionID="3">(pointing to </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3">)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="b31a1686-918a-4718-8a78-78c4bcdaa306">
-      <Text RevisionID="1">This young lady doesn’t want to foot the bill.</Text>
+      <Text RevisionID="1">This young lady </Text>
+      <Text RevisionID="3">doesn’t understand the system.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="e0a2fd88-4df3-4286-81c6-eafdb55cda17">
       <Text RevisionID="1">Lucinda</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="afc71877-bf65-4661-a5e2-06c4c9ec179d">
-      <Text RevisionID="1">She’s also against holistic treatment. </Text>
+      <Text RevisionID="3">Her head’s not in the right place.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="976e806c-71ac-4456-82da-4c00589c5a3b">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> grabs her black bag and stands up.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1562e811-82fc-4a48-8e11-8974e7e9338f">
       <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="9a207bce-6f0a-4987-b6c2-060d04244835">
-      <Text RevisionID="1">I am just here for a simple, ordinary doctor’s appointment. I don’t need a therapist. I don’t need the billing department. What are you, </Text>
+    <Paragraph Type="Dialogue" id="eef5884e-f5fc-49ec-ba26-cac3b7a1fc28">
+      <Text RevisionID="1">I</Text>
+      <Text RevisionID="3">’m done. I just came here for </Text>
+      <Text RevisionID="1">a simple, ordinary doctor’s appointment. I don’t </Text>
+      <Text RevisionID="3">want</Text>
+      <Text RevisionID="1"> a </Text>
+      <Text RevisionID="3">“care team.” I don’t want a laugh </Text>
+      <Text RevisionID="1">therapist</Text>
+      <Text RevisionID="3"> or a psychologist</Text>
+      <Text RevisionID="1">. I don’t </Text>
+      <Text RevisionID="3">want to fight with</Text>
+      <Text RevisionID="1"> the billing department</Text>
+      <Text RevisionID="3"> for an appointment that hasn’t even started</Text>
+      <Text RevisionID="1">. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8f9c0602-e7af-4fa5-b1ec-7a449d33db29">
+      <Text RevisionID="3">(to Dr. Teresa)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eef5884e-f5fc-49ec-ba26-cac3b7a1fc28">
+      <Text RevisionID="1">What are you, </Text>
       <Text>a</Text>
       <Text RevisionID="1"> spiritual healer? </Text>
     </Paragraph>
@@ -259,49 +403,131 @@
       <Text RevisionID="1">Dr. TERESA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="2e3303a1-a838-43fc-a5ac-78f841ecacf5">
-      <Text RevisionID="1">Actually, I’m the doctor, and I wanted to start your appointment-</Text>
+      <Text RevisionID="1">Actually, I’m </Text>
+      <Text RevisionID="3">Dr. Teresa - </Text>
     </Paragraph>
     <Paragraph Type="Action" id="48cd61b0-224c-498f-894e-6e1d766bb32a">
-      <Text RevisionID="1">All of a sudden, a chainsaw crashes through the </Text>
-      <Text RevisionID="1">ceiling and falls onto </Text>
-      <Text AdornmentStyle="-1" RevisionID="1">Priya’s</Text>
-      <Text RevisionID="1"> foot.</Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> scoffs.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="6355daf4-e9e5-4fd0-8d81-176e7b1ad9f0">
-      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
+    <Paragraph Type="Character" id="7e7b475c-7010-4032-a34b-94d4f347c50c">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="64724ee1-c3b8-4c01-838b-76bfbb4d4757">
-      <Text AdornmentStyle="-1" RevisionID="1">OWWWWW</Text>
-      <Text RevisionID="1">!!!!!</Text>
+    <Paragraph Type="Dialogue" id="bb5416e6-a8a7-4f7a-9421-8df6989eafd7">
+      <Text RevisionID="3">And </Text>
+      <Text RevisionID="3">what</Text>
+      <Text RevisionID="3"> do you do, Dr. Teresa? Do you perform Reiki? Come to treat me with crystals?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="73d756ec-70d3-4124-a3e0-b9f1489c5735">
+      <Text RevisionID="3">Dr. teresa</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd6c41c0-5184-4604-b08c-5c4a88efefb6">
+      <Text RevisionID="3">Actually, that’s my side job. I came here to take a look at that right foot. What’s going on?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7a065e99-34e1-4a62-8680-0269c8a3bdd5">
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> looks around the room and weighs her option. She sighs and tepidly walks towards the exam table.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2cee2417-27d4-44fb-9ed7-9bbeeb0fc69a">
+      <Text RevisionID="3">Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3ef1f0ca-9ae5-4530-8cf4-4c08aad08fe9">
+      <Text RevisionID="3">Doctor, just so you’re aware, she does expect a solution.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0834ea7c-8f71-4b82-8d84-2e435cdb4aba">
+      <Text RevisionID="3">Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="1ee6c2d8-be6d-4f91-b632-f4fdf71c1b38">
+      <Text RevisionID="3">(shaking his head)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f15bdeda-801a-4295-abe1-9cc0153a9e43">
+      <Text RevisionID="3">As if those just fall from the sky.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3d3c9c1a-409b-4d11-b649-1ee325fa3363">
+      <Text RevisionID="3">Then, all of a sudden, out of nowhere, the </Text>
+      <Text RevisionID="3">ceiling</Text>
+      <Text RevisionID="3"> cracks open. A sharp chain saw crashes down, landing directly on </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya’s</Text>
+      <Text RevisionID="3"> right foot. </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> looks down and screams.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="64724ee1-c3b8-4c01-838b-76bfbb4d4757"/>
+    <Paragraph Type="Action" id="44138abe-59c5-498e-b098-31499905ff63">
+      <Text RevisionID="3">Tim looks a Dr. Teresa with awe. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d09aedce-015e-4aa8-8805-49cc5aa95231">
+      <Text RevisionID="3">Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f94f3634-0f1d-4e80-b3f3-72e4369fdb52">
+      <Text RevisionID="3">Doctor Teresa, you’re a miracle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9a56e485-01ab-48d0-b637-5ed064a4c52b">
+      <Text RevisionID="3">Lucinda</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f37818f7-26e0-4b9e-9d5d-dd02fd82cf95">
+      <Text RevisionID="3">That’s the crystal working.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8e0dd97b-e044-450d-b87d-da5f1ac160ba">
+      <Text RevisionID="3">Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="76e1874f-72f3-4ef2-a324-aa0efadcf172">
+      <Text RevisionID="3">We should start charging for that. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f3dde49a-5d5d-4fc7-9a97-3d524aead412">
+      <Text RevisionID="3">Dr. Teresa looks at her staff and sees everyone smiling.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="df16892e-1921-43ce-ada8-19bdf7598a0a">
       <Text RevisionID="1">Dr. TERESA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="f4bf11d4-fa92-4ceb-8d9c-6b23a7358372">
-      <Text RevisionID="1">Thank goodness it was just your foot. So, what would you like me to see today? </Text>
+      <Text RevisionID="1">Thank goodness</Text>
+      <Text RevisionID="3"> everyone’s alright</Text>
+      <Text RevisionID="1">. So,</Text>
+      <Text RevisionID="3"> </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3">,</Text>
+      <Text RevisionID="1"> what would you like me to see today? </Text>
     </Paragraph>
     <Paragraph Type="Action" id="c37abdab-8011-48b3-8751-64f3a9cea25a">
-      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
-      <Text RevisionID="1"> looks down at her foot, which is severed from her body. The blood starts spurting out. She looks up at the doctor.</Text>
+      <Text RevisionID="3">Dr. Teresa turns to </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3">. </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3"> stares at her foot in shock.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="e97a2ff1-d70a-41f0-bc9d-57294897114e">
       <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="bcecc927-92e9-47d2-9bf2-274f5d47f8e2">
-      <Text RevisionID="1">It’s gone now.</Text>
+      <Text RevisionID="3">There’s nothing left.</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="c2a03c17-4067-415c-96b6-6d3bcad8b2ab">
+      <Text RevisionID="3">Tim</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0bc8a451-50ab-4dfc-b28f-fdb11fd264e1">
+      <Text RevisionID="3">Don’t be silly, you still have </Text>
+      <Text RevisionID="3" Style="Italic">that</Text>
+      <Text RevisionID="3"> foot!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7d8266ae-1ec4-47e1-953c-a2bed3f45698">
+      <Text RevisionID="3">Dr. TERESA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4d29452f-2940-4184-9504-d79211f873eb">
+      <Text RevisionID="3">Lucinda, schedule a follow up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="42fc9c80-ee3c-4ff0-a857-f3704063d525">
+      <Text RevisionID="3">We hear a PRINTER sound. Mark rips the paper off the device he holds and hands it to </Text>
+      <Text AdornmentStyle="-1" RevisionID="3">Priya</Text>
+      <Text RevisionID="3">.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="beecb671-8c81-4ef4-8ca4-f5e7d217e220"/>
     <Paragraph Type="Character" id="cec6db03-2c66-42dd-aa72-a26a893bdec8">
       <Text>Mark</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="d53efadb-7c3a-4556-954f-bd2250f54201">
-      <Text RevisionID="1">(</Text>
-      <Text>hands a paper to</Text>
-      <Text RevisionID="1"> </Text>
-      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
-      <Text RevisionID="1">)</Text>
-    </Paragraph>
     <Paragraph Type="Dialogue" id="166e531e-d50f-4cdf-9a5e-c5df5b5ae82f">
-      <Text RevisionID="1">Here’s your bill.</Text>
+      <Text RevisionID="1">Here’s your bill</Text>
+      <Text RevisionID="3">. </Text>
     </Paragraph>
   </Content>
 
@@ -348,7 +574,7 @@
 
   <WindowState Height="770" Left="0" Mode="Normal" Top="105" Width="1440"/>
 
-  <TextState Scaling="150" Selection="1371,1371" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="347,356" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -619,7 +845,7 @@
 
   <LockedPages/>
 
-  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="None" ShowPageColor="No">
+  <Revisions ActiveSet="3" Location="7.75" RevisionMode="Yes" RevisionsShown="Active" ShowPageColor="Yes">
     <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
     <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
     <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
@@ -642,167 +868,399 @@
   </Revisions>
 
   <DeletedText>
-    <DeletedTextLocation Offset="297" RevisionID="1"/>
-    <DeletedTextLocation Offset="569" RevisionID="1"/>
-    <DeletedTextLocation Offset="612" RevisionID="1"/>
-    <DeletedTextLocation Offset="619" RevisionID="1"/>
-    <DeletedTextLocation Offset="733" RevisionID="1"/>
-    <DeletedTextLocation Offset="770" RevisionID="1"/>
-    <DeletedTextLocation Offset="791" RevisionID="1"/>
-    <DeletedTextLocation Offset="826" RevisionID="1"/>
-    <DeletedTextLocation Offset="925" RevisionID="1"/>
-    <DeletedTextLocation Offset="933" RevisionID="1"/>
-    <DeletedTextLocation Offset="934" RevisionID="1"/>
-    <DeletedTextLocation Offset="939" RevisionID="1"/>
-    <DeletedTextLocation Offset="952" RevisionID="1"/>
-    <DeletedTextLocation Offset="982" RevisionID="1"/>
-    <DeletedTextLocation Offset="987" RevisionID="1"/>
-    <DeletedTextLocation Offset="1001" RevisionID="1"/>
-    <DeletedTextLocation Offset="1014" RevisionID="1"/>
-    <DeletedTextLocation Offset="1040" RevisionID="1"/>
-    <DeletedTextLocation Offset="1042" RevisionID="1"/>
-    <DeletedTextLocation Offset="1069" RevisionID="1"/>
-    <DeletedTextLocation Offset="1070" RevisionID="1"/>
-    <DeletedTextLocation Offset="1078" RevisionID="1"/>
-    <DeletedTextLocation Offset="1099" RevisionID="1"/>
-    <DeletedTextLocation Offset="1107" RevisionID="1"/>
-    <DeletedTextLocation Offset="1115" RevisionID="1"/>
-    <DeletedTextLocation Offset="1130" RevisionID="1"/>
-    <DeletedTextLocation Offset="1159" RevisionID="1"/>
-    <DeletedTextLocation Offset="1165" RevisionID="1"/>
-    <DeletedTextLocation Offset="1199" RevisionID="1"/>
-    <DeletedTextLocation Offset="1200" RevisionID="1"/>
-    <DeletedTextLocation Offset="1214" RevisionID="1"/>
-    <DeletedTextLocation Offset="1239" RevisionID="1"/>
-    <DeletedTextLocation Offset="1250" RevisionID="1"/>
-    <DeletedTextLocation Offset="1331" RevisionID="1"/>
-    <DeletedTextLocation Offset="1333" RevisionID="1"/>
-    <DeletedTextLocation Offset="1351" RevisionID="1"/>
-    <DeletedTextLocation Offset="1358" RevisionID="1"/>
-    <DeletedTextLocation Offset="1360" RevisionID="1"/>
-    <DeletedTextLocation Offset="1367" RevisionID="1"/>
-    <DeletedTextLocation Offset="1372" RevisionID="1"/>
-    <DeletedTextLocation Offset="1373" RevisionID="1"/>
-    <DeletedTextLocation Offset="1406" RevisionID="1"/>
-    <DeletedTextLocation Offset="1407" RevisionID="1"/>
-    <DeletedTextLocation Offset="1413" RevisionID="1"/>
-    <DeletedTextLocation Offset="1442" RevisionID="1"/>
-    <DeletedTextLocation Offset="1459" RevisionID="1"/>
-    <DeletedTextLocation Offset="1491" RevisionID="1"/>
-    <DeletedTextLocation Offset="1500" RevisionID="1"/>
-    <DeletedTextLocation Offset="1505" RevisionID="1"/>
-    <DeletedTextLocation Offset="1567" RevisionID="1"/>
-    <DeletedTextLocation Offset="1568" RevisionID="1"/>
-    <DeletedTextLocation Offset="1588" RevisionID="1"/>
-    <DeletedTextLocation Offset="1649" RevisionID="1"/>
-    <DeletedTextLocation Offset="1655" RevisionID="1"/>
-    <DeletedTextLocation Offset="1656" RevisionID="1"/>
-    <DeletedTextLocation Offset="1671" RevisionID="1"/>
-    <DeletedTextLocation Offset="1702" RevisionID="1"/>
-    <DeletedTextLocation Offset="1732" RevisionID="1"/>
-    <DeletedTextLocation Offset="1736" RevisionID="1"/>
-    <DeletedTextLocation Offset="1765" RevisionID="1"/>
-    <DeletedTextLocation Offset="1774" RevisionID="1"/>
-    <DeletedTextLocation Offset="1806" RevisionID="1"/>
-    <DeletedTextLocation Offset="1808" RevisionID="1"/>
-    <DeletedTextLocation Offset="1824" RevisionID="1"/>
-    <DeletedTextLocation Offset="1832" RevisionID="1"/>
-    <DeletedTextLocation Offset="1838" RevisionID="1"/>
-    <DeletedTextLocation Offset="1841" RevisionID="1"/>
-    <DeletedTextLocation Offset="1858" RevisionID="1"/>
-    <DeletedTextLocation Offset="1865" RevisionID="1"/>
-    <DeletedTextLocation Offset="1869" RevisionID="1"/>
-    <DeletedTextLocation Offset="1873" RevisionID="1"/>
-    <DeletedTextLocation Offset="1876" RevisionID="1"/>
-    <DeletedTextLocation Offset="1926" RevisionID="1"/>
-    <DeletedTextLocation Offset="1949" RevisionID="1"/>
-    <DeletedTextLocation Offset="1950" RevisionID="1"/>
-    <DeletedTextLocation Offset="2017" RevisionID="1"/>
-    <DeletedTextLocation Offset="2081" RevisionID="1"/>
-    <DeletedTextLocation Offset="2128" RevisionID="1"/>
-    <DeletedTextLocation Offset="2132" RevisionID="1"/>
-    <DeletedTextLocation Offset="2171" RevisionID="1"/>
-    <DeletedTextLocation Offset="2194" RevisionID="1"/>
-    <DeletedTextLocation Offset="2225" RevisionID="1"/>
-    <DeletedTextLocation Offset="2231" RevisionID="1"/>
-    <DeletedTextLocation Offset="2263" RevisionID="1"/>
-    <DeletedTextLocation Offset="2269" RevisionID="1"/>
-    <DeletedTextLocation Offset="2271" RevisionID="1"/>
-    <DeletedTextLocation Offset="2277" RevisionID="1"/>
+    <DeletedTextLocation Offset="133" RevisionID="3"/>
+    <DeletedTextLocation Offset="139" RevisionID="3"/>
+    <DeletedTextLocation Offset="144" RevisionID="3"/>
+    <DeletedTextLocation Offset="165" RevisionID="3"/>
+    <DeletedTextLocation Offset="168" RevisionID="3"/>
+    <DeletedTextLocation Offset="175" RevisionID="3"/>
+    <DeletedTextLocation Offset="192" RevisionID="1"/>
+    <DeletedTextLocation Offset="192" RevisionID="3"/>
+    <DeletedTextLocation Offset="209" RevisionID="3"/>
+    <DeletedTextLocation Offset="211" RevisionID="3"/>
+    <DeletedTextLocation Offset="231" RevisionID="3"/>
+    <DeletedTextLocation Offset="242" RevisionID="3"/>
+    <DeletedTextLocation Offset="247" RevisionID="3"/>
+    <DeletedTextLocation Offset="282" RevisionID="3"/>
+    <DeletedTextLocation Offset="329" RevisionID="3"/>
+    <DeletedTextLocation Offset="360" RevisionID="3"/>
+    <DeletedTextLocation Offset="394" RevisionID="3"/>
+    <DeletedTextLocation Offset="451" RevisionID="3"/>
+    <DeletedTextLocation Offset="458" RevisionID="1"/>
+    <DeletedTextLocation Offset="458" RevisionID="3"/>
+    <DeletedTextLocation Offset="475" RevisionID="3"/>
+    <DeletedTextLocation Offset="550" RevisionID="1"/>
+    <DeletedTextLocation Offset="557" RevisionID="1"/>
+    <DeletedTextLocation Offset="574" RevisionID="3"/>
+    <DeletedTextLocation Offset="578" RevisionID="3"/>
+    <DeletedTextLocation Offset="582" RevisionID="3"/>
+    <DeletedTextLocation Offset="584" RevisionID="3"/>
+    <DeletedTextLocation Offset="600" RevisionID="3"/>
+    <DeletedTextLocation Offset="635" RevisionID="3"/>
+    <DeletedTextLocation Offset="655" RevisionID="3"/>
+    <DeletedTextLocation Offset="660" RevisionID="3"/>
+    <DeletedTextLocation Offset="664" RevisionID="3"/>
+    <DeletedTextLocation Offset="678" RevisionID="3"/>
+    <DeletedTextLocation Offset="680" RevisionID="3"/>
+    <DeletedTextLocation Offset="687" RevisionID="3"/>
+    <DeletedTextLocation Offset="688" RevisionID="3"/>
+    <DeletedTextLocation Offset="689" RevisionID="3"/>
+    <DeletedTextLocation Offset="724" RevisionID="3"/>
+    <DeletedTextLocation Offset="728" RevisionID="3"/>
+    <DeletedTextLocation Offset="735" RevisionID="3"/>
+    <DeletedTextLocation Offset="749" RevisionID="3"/>
+    <DeletedTextLocation Offset="758" RevisionID="3"/>
+    <DeletedTextLocation Offset="773" RevisionID="1"/>
+    <DeletedTextLocation Offset="773" RevisionID="3"/>
+    <DeletedTextLocation Offset="774" RevisionID="3"/>
+    <DeletedTextLocation Offset="784" RevisionID="3"/>
+    <DeletedTextLocation Offset="790" RevisionID="3"/>
+    <DeletedTextLocation Offset="794" RevisionID="3"/>
+    <DeletedTextLocation Offset="797" RevisionID="3"/>
+    <DeletedTextLocation Offset="804" RevisionID="3"/>
+    <DeletedTextLocation Offset="811" RevisionID="3"/>
+    <DeletedTextLocation Offset="834" RevisionID="1"/>
+    <DeletedTextLocation Offset="835" RevisionID="3"/>
+    <DeletedTextLocation Offset="848" RevisionID="1"/>
+    <DeletedTextLocation Offset="848" RevisionID="3"/>
+    <DeletedTextLocation Offset="913" RevisionID="3"/>
+    <DeletedTextLocation Offset="925" RevisionID="3"/>
+    <DeletedTextLocation Offset="931" RevisionID="3"/>
+    <DeletedTextLocation Offset="944" RevisionID="3"/>
+    <DeletedTextLocation Offset="947" RevisionID="3"/>
+    <DeletedTextLocation Offset="955" RevisionID="3"/>
+    <DeletedTextLocation Offset="956" RevisionID="3"/>
+    <DeletedTextLocation Offset="1008" RevisionID="3"/>
+    <DeletedTextLocation Offset="1019" RevisionID="3"/>
+    <DeletedTextLocation Offset="1045" RevisionID="3"/>
+    <DeletedTextLocation Offset="1065" RevisionID="3"/>
+    <DeletedTextLocation Offset="1073" RevisionID="3"/>
+    <DeletedTextLocation Offset="1083" RevisionID="3"/>
+    <DeletedTextLocation Offset="1090" RevisionID="3"/>
+    <DeletedTextLocation Offset="1096" RevisionID="3"/>
+    <DeletedTextLocation Offset="1099" RevisionID="3"/>
+    <DeletedTextLocation Offset="1148" RevisionID="3"/>
+    <DeletedTextLocation Offset="1173" RevisionID="3"/>
+    <DeletedTextLocation Offset="1210" RevisionID="3"/>
+    <DeletedTextLocation Offset="1219" RevisionID="3"/>
+    <DeletedTextLocation Offset="1223" RevisionID="3"/>
+    <DeletedTextLocation Offset="1226" RevisionID="3"/>
+    <DeletedTextLocation Offset="1252" RevisionID="3"/>
+    <DeletedTextLocation Offset="1274" RevisionID="3"/>
+    <DeletedTextLocation Offset="1297" RevisionID="3"/>
+    <DeletedTextLocation Offset="1308" RevisionID="3"/>
+    <DeletedTextLocation Offset="1311" RevisionID="3"/>
+    <DeletedTextLocation Offset="1332" RevisionID="3"/>
+    <DeletedTextLocation Offset="1345" RevisionID="3"/>
+    <DeletedTextLocation Offset="1352" RevisionID="3"/>
+    <DeletedTextLocation Offset="1392" RevisionID="3"/>
+    <DeletedTextLocation Offset="1394" RevisionID="3"/>
+    <DeletedTextLocation Offset="1428" RevisionID="3"/>
+    <DeletedTextLocation Offset="1436" RevisionID="3"/>
+    <DeletedTextLocation Offset="1445" RevisionID="3"/>
+    <DeletedTextLocation Offset="1498" RevisionID="3"/>
+    <DeletedTextLocation Offset="1516" RevisionID="3"/>
+    <DeletedTextLocation Offset="1526" RevisionID="3"/>
+    <DeletedTextLocation Offset="1552" RevisionID="3"/>
+    <DeletedTextLocation Offset="1561" RevisionID="3"/>
+    <DeletedTextLocation Offset="1575" RevisionID="3"/>
+    <DeletedTextLocation Offset="1587" RevisionID="3"/>
+    <DeletedTextLocation Offset="1594" RevisionID="3"/>
+    <DeletedTextLocation Offset="1603" RevisionID="3"/>
+    <DeletedTextLocation Offset="1609" RevisionID="3"/>
+    <DeletedTextLocation Offset="1617" RevisionID="3"/>
+    <DeletedTextLocation Offset="1631" RevisionID="3"/>
+    <DeletedTextLocation Offset="1632" RevisionID="3"/>
+    <DeletedTextLocation Offset="1634" RevisionID="3"/>
+    <DeletedTextLocation Offset="1636" RevisionID="3"/>
+    <DeletedTextLocation Offset="1744" RevisionID="3"/>
+    <DeletedTextLocation Offset="1775" RevisionID="3"/>
+    <DeletedTextLocation Offset="1777" RevisionID="3"/>
+    <DeletedTextLocation Offset="1795" RevisionID="3"/>
+    <DeletedTextLocation Offset="1801" RevisionID="3"/>
+    <DeletedTextLocation Offset="1814" RevisionID="3"/>
+    <DeletedTextLocation Offset="1833" RevisionID="3"/>
+    <DeletedTextLocation Offset="1838" RevisionID="3"/>
+    <DeletedTextLocation Offset="1839" RevisionID="3"/>
+    <DeletedTextLocation Offset="1852" RevisionID="3"/>
+    <DeletedTextLocation Offset="1857" RevisionID="3"/>
+    <DeletedTextLocation Offset="1858" RevisionID="3"/>
+    <DeletedTextLocation Offset="1859" RevisionID="3"/>
+    <DeletedTextLocation Offset="1861" RevisionID="3"/>
+    <DeletedTextLocation Offset="1862" RevisionID="3"/>
+    <DeletedTextLocation Offset="1873" RevisionID="3"/>
+    <DeletedTextLocation Offset="1928" RevisionID="3"/>
+    <DeletedTextLocation Offset="1930" RevisionID="3"/>
+    <DeletedTextLocation Offset="1934" RevisionID="3"/>
+    <DeletedTextLocation Offset="1941" RevisionID="3"/>
+    <DeletedTextLocation Offset="1945" RevisionID="3"/>
+    <DeletedTextLocation Offset="1946" RevisionID="3"/>
+    <DeletedTextLocation Offset="1980" RevisionID="3"/>
+    <DeletedTextLocation Offset="1981" RevisionID="3"/>
+    <DeletedTextLocation Offset="1997" RevisionID="3"/>
+    <DeletedTextLocation Offset="2004" RevisionID="3"/>
+    <DeletedTextLocation Offset="2011" RevisionID="3"/>
+    <DeletedTextLocation Offset="2027" RevisionID="3"/>
+    <DeletedTextLocation Offset="2028" RevisionID="3"/>
+    <DeletedTextLocation Offset="2044" RevisionID="3"/>
+    <DeletedTextLocation Offset="2054" RevisionID="3"/>
+    <DeletedTextLocation Offset="2068" RevisionID="3"/>
+    <DeletedTextLocation Offset="2072" RevisionID="3"/>
+    <DeletedTextLocation Offset="2088" RevisionID="3"/>
+    <DeletedTextLocation Offset="2129" RevisionID="3"/>
+    <DeletedTextLocation Offset="2155" RevisionID="3"/>
+    <DeletedTextLocation Offset="2179" RevisionID="3"/>
+    <DeletedTextLocation Offset="2190" RevisionID="3"/>
+    <DeletedTextLocation Offset="2192" RevisionID="3"/>
+    <DeletedTextLocation Offset="2226" RevisionID="3"/>
+    <DeletedTextLocation Offset="2231" RevisionID="3"/>
+    <DeletedTextLocation Offset="2238" RevisionID="3"/>
+    <DeletedTextLocation Offset="2254" RevisionID="3"/>
+    <DeletedTextLocation Offset="2256" RevisionID="3"/>
+    <DeletedTextLocation Offset="2258" RevisionID="3"/>
+    <DeletedTextLocation Offset="2260" RevisionID="3"/>
+    <DeletedTextLocation Offset="2270" RevisionID="3"/>
+    <DeletedTextLocation Offset="2270" RevisionID="1"/>
+    <DeletedTextLocation Offset="2270" RevisionID="3"/>
+    <DeletedTextLocation Offset="2274" RevisionID="3"/>
     <DeletedTextLocation Offset="2288" RevisionID="1"/>
-    <DeletedTextLocation Offset="2319" RevisionID="1"/>
-    <DeletedTextLocation Offset="2331" RevisionID="1"/>
-    <DeletedTextLocation Offset="2347" RevisionID="1"/>
-    <DeletedTextLocation Offset="2350" RevisionID="1"/>
-    <DeletedTextLocation Offset="2352" RevisionID="1"/>
-    <DeletedTextLocation Offset="2354" RevisionID="1"/>
-    <DeletedTextLocation Offset="2366" RevisionID="1"/>
-    <DeletedTextLocation Offset="2380" RevisionID="1"/>
-    <DeletedTextLocation Offset="2386" RevisionID="1"/>
-    <DeletedTextLocation Offset="2392" RevisionID="1"/>
-    <DeletedTextLocation Offset="2433" RevisionID="1"/>
-    <DeletedTextLocation Offset="2455" RevisionID="1"/>
-    <DeletedTextLocation Offset="2456" RevisionID="1"/>
-    <DeletedTextLocation Offset="2464" RevisionID="1"/>
-    <DeletedTextLocation Offset="2471" RevisionID="1"/>
-    <DeletedTextLocation Offset="2490" RevisionID="1"/>
-    <DeletedTextLocation Offset="2500" RevisionID="1"/>
-    <DeletedTextLocation Offset="2511" RevisionID="1"/>
-    <DeletedTextLocation Offset="2522" RevisionID="1"/>
-    <DeletedTextLocation Offset="2533" RevisionID="1"/>
-    <DeletedTextLocation Offset="2547" RevisionID="1"/>
-    <DeletedTextLocation Offset="2550" RevisionID="1"/>
-    <DeletedTextLocation Offset="2572" RevisionID="1"/>
-    <DeletedTextLocation Offset="2578" RevisionID="1"/>
-    <DeletedTextLocation Offset="2593" RevisionID="1"/>
-    <DeletedTextLocation Offset="2610" RevisionID="1"/>
-    <DeletedTextLocation Offset="2658" RevisionID="1"/>
-    <DeletedTextLocation Offset="2671" RevisionID="1"/>
-    <DeletedTextLocation Offset="2680" RevisionID="1"/>
-    <DeletedTextLocation Offset="2691" RevisionID="1"/>
+    <DeletedTextLocation Offset="2288" RevisionID="3"/>
+    <DeletedTextLocation Offset="2289" RevisionID="3"/>
+    <DeletedTextLocation Offset="2292" RevisionID="3"/>
+    <DeletedTextLocation Offset="2318" RevisionID="3"/>
+    <DeletedTextLocation Offset="2322" RevisionID="3"/>
+    <DeletedTextLocation Offset="2348" RevisionID="3"/>
+    <DeletedTextLocation Offset="2350" RevisionID="3"/>
+    <DeletedTextLocation Offset="2376" RevisionID="1"/>
+    <DeletedTextLocation Offset="2376" RevisionID="3"/>
+    <DeletedTextLocation Offset="2432" RevisionID="3"/>
+    <DeletedTextLocation Offset="2446" RevisionID="3"/>
+    <DeletedTextLocation Offset="2449" RevisionID="3"/>
+    <DeletedTextLocation Offset="2455" RevisionID="3"/>
+    <DeletedTextLocation Offset="2465" RevisionID="3"/>
+    <DeletedTextLocation Offset="2467" RevisionID="1"/>
+    <DeletedTextLocation Offset="2467" RevisionID="3"/>
+    <DeletedTextLocation Offset="2467" RevisionID="1"/>
+    <DeletedTextLocation Offset="2467" RevisionID="3"/>
+    <DeletedTextLocation Offset="2490" RevisionID="3"/>
+    <DeletedTextLocation Offset="2498" RevisionID="3"/>
+    <DeletedTextLocation Offset="2501" RevisionID="1"/>
+    <DeletedTextLocation Offset="2502" RevisionID="1"/>
+    <DeletedTextLocation Offset="2516" RevisionID="1"/>
+    <DeletedTextLocation Offset="2541" RevisionID="1"/>
+    <DeletedTextLocation Offset="2552" RevisionID="1"/>
+    <DeletedTextLocation Offset="2633" RevisionID="1"/>
+    <DeletedTextLocation Offset="2635" RevisionID="1"/>
+    <DeletedTextLocation Offset="2653" RevisionID="1"/>
+    <DeletedTextLocation Offset="2660" RevisionID="1"/>
+    <DeletedTextLocation Offset="2662" RevisionID="1"/>
+    <DeletedTextLocation Offset="2669" RevisionID="1"/>
+    <DeletedTextLocation Offset="2674" RevisionID="1"/>
+    <DeletedTextLocation Offset="2678" RevisionID="3"/>
+    <DeletedTextLocation Offset="2679" RevisionID="1"/>
+    <DeletedTextLocation Offset="2679" RevisionID="3"/>
+    <DeletedTextLocation Offset="2709" RevisionID="1"/>
+    <DeletedTextLocation Offset="2709" RevisionID="3"/>
+    <DeletedTextLocation Offset="2718" RevisionID="1"/>
+    <DeletedTextLocation Offset="2718" RevisionID="3"/>
+    <DeletedTextLocation Offset="2722" RevisionID="3"/>
     <DeletedTextLocation Offset="2726" RevisionID="1"/>
-    <DeletedTextLocation Offset="2736" RevisionID="1"/>
-    <DeletedTextLocation Offset="2746" RevisionID="1"/>
-    <DeletedTextLocation Offset="2757" RevisionID="1"/>
-    <DeletedTextLocation Offset="2761" RevisionID="1"/>
-    <DeletedTextLocation Offset="2773" RevisionID="1"/>
-    <DeletedTextLocation Offset="2784" RevisionID="1"/>
-    <DeletedTextLocation Offset="2797" RevisionID="1"/>
-    <DeletedTextLocation Offset="2824" RevisionID="1"/>
-    <DeletedTextLocation Offset="2832" RevisionID="1"/>
-    <DeletedTextLocation Offset="2857" RevisionID="1"/>
-    <DeletedTextLocation Offset="2863" RevisionID="1"/>
-    <DeletedTextLocation Offset="2865" RevisionID="1"/>
-    <DeletedTextLocation Offset="2868" RevisionID="1"/>
-    <DeletedTextLocation Offset="2884" RevisionID="1"/>
-    <DeletedTextLocation Offset="2910" RevisionID="1"/>
-    <DeletedTextLocation Offset="2913" RevisionID="1"/>
-    <DeletedTextLocation Offset="2959" RevisionID="1"/>
-    <DeletedTextLocation Offset="2979" RevisionID="1"/>
-    <DeletedTextLocation Offset="2980" RevisionID="1"/>
-    <DeletedTextLocation Offset="2982" RevisionID="1"/>
-    <DeletedTextLocation Offset="2989" RevisionID="1"/>
-    <DeletedTextLocation Offset="2992" RevisionID="1"/>
-    <DeletedTextLocation Offset="2998" RevisionID="1"/>
-    <DeletedTextLocation Offset="3009" RevisionID="1"/>
-    <DeletedTextLocation Offset="3029" RevisionID="1"/>
-    <DeletedTextLocation Offset="3064" RevisionID="1"/>
-    <DeletedTextLocation Offset="3068" RevisionID="1"/>
-    <DeletedTextLocation Offset="3072" RevisionID="1"/>
-    <DeletedTextLocation Offset="3076" RevisionID="1"/>
-    <DeletedTextLocation Offset="3097" RevisionID="1"/>
+    <DeletedTextLocation Offset="2744" RevisionID="3"/>
+    <DeletedTextLocation Offset="2759" RevisionID="3"/>
+    <DeletedTextLocation Offset="2774" RevisionID="3"/>
+    <DeletedTextLocation Offset="2782" RevisionID="3"/>
+    <DeletedTextLocation Offset="2792" RevisionID="3"/>
+    <DeletedTextLocation Offset="2797" RevisionID="3"/>
+    <DeletedTextLocation Offset="2820" RevisionID="1"/>
+    <DeletedTextLocation Offset="2829" RevisionID="1"/>
+    <DeletedTextLocation Offset="2834" RevisionID="1"/>
+    <DeletedTextLocation Offset="2835" RevisionID="3"/>
+    <DeletedTextLocation Offset="2835" RevisionID="1"/>
+    <DeletedTextLocation Offset="2835" RevisionID="3"/>
+    <DeletedTextLocation Offset="2843" RevisionID="3"/>
+    <DeletedTextLocation Offset="2846" RevisionID="3"/>
+    <DeletedTextLocation Offset="2866" RevisionID="3"/>
+    <DeletedTextLocation Offset="2876" RevisionID="3"/>
+    <DeletedTextLocation Offset="2893" RevisionID="3"/>
+    <DeletedTextLocation Offset="2903" RevisionID="3"/>
+    <DeletedTextLocation Offset="2910" RevisionID="3"/>
+    <DeletedTextLocation Offset="2920" RevisionID="3"/>
+    <DeletedTextLocation Offset="2922" RevisionID="3"/>
+    <DeletedTextLocation Offset="2925" RevisionID="3"/>
+    <DeletedTextLocation Offset="2933" RevisionID="3"/>
+    <DeletedTextLocation Offset="2938" RevisionID="3"/>
+    <DeletedTextLocation Offset="2941" RevisionID="3"/>
+    <DeletedTextLocation Offset="2945" RevisionID="3"/>
+    <DeletedTextLocation Offset="2953" RevisionID="3"/>
+    <DeletedTextLocation Offset="2954" RevisionID="3"/>
+    <DeletedTextLocation Offset="2955" RevisionID="1"/>
+    <DeletedTextLocation Offset="2955" RevisionID="3"/>
+    <DeletedTextLocation Offset="2955" RevisionID="1"/>
+    <DeletedTextLocation Offset="2956" RevisionID="1"/>
+    <DeletedTextLocation Offset="2956" RevisionID="3"/>
+    <DeletedTextLocation Offset="2997" RevisionID="3"/>
+    <DeletedTextLocation Offset="2999" RevisionID="3"/>
+    <DeletedTextLocation Offset="3012" RevisionID="3"/>
+    <DeletedTextLocation Offset="3026" RevisionID="3"/>
+    <DeletedTextLocation Offset="3033" RevisionID="3"/>
+    <DeletedTextLocation Offset="3037" RevisionID="3"/>
+    <DeletedTextLocation Offset="3063" RevisionID="3"/>
+    <DeletedTextLocation Offset="3090" RevisionID="3"/>
+    <DeletedTextLocation Offset="3095" RevisionID="3"/>
+    <DeletedTextLocation Offset="3102" RevisionID="3"/>
+    <DeletedTextLocation Offset="3154" RevisionID="3"/>
     <DeletedTextLocation Offset="3158" RevisionID="1"/>
+    <DeletedTextLocation Offset="3158" RevisionID="3"/>
+    <DeletedTextLocation Offset="3170" RevisionID="1"/>
+    <DeletedTextLocation Offset="3170" RevisionID="3"/>
     <DeletedTextLocation Offset="3175" RevisionID="1"/>
-    <DeletedTextLocation Offset="3185" RevisionID="1"/>
-    <DeletedTextLocation Offset="3197" RevisionID="1"/>
-    <DeletedTextLocation Offset="3206" RevisionID="1"/>
-    <DeletedTextLocation Offset="3246" RevisionID="1"/>
-    <DeletedTextLocation Offset="3249" RevisionID="1"/>
-    <DeletedTextLocation Offset="3276" RevisionID="1"/>
-    <DeletedTextLocation Offset="3277" RevisionID="1"/>
-    <DeletedTextLocation Offset="3301" RevisionID="1"/>
-    <DeletedTextLocation Offset="3303" RevisionID="1"/>
-    <DeletedTextLocation Offset="3327" RevisionID="1"/>
+    <DeletedTextLocation Offset="3190" RevisionID="1"/>
+    <DeletedTextLocation Offset="3207" RevisionID="1"/>
+    <DeletedTextLocation Offset="3218" RevisionID="3"/>
+    <DeletedTextLocation Offset="3236" RevisionID="3"/>
+    <DeletedTextLocation Offset="3251" RevisionID="3"/>
+    <DeletedTextLocation Offset="3254" RevisionID="3"/>
+    <DeletedTextLocation Offset="3277" RevisionID="3"/>
+    <DeletedTextLocation Offset="3280" RevisionID="3"/>
+    <DeletedTextLocation Offset="3318" RevisionID="1"/>
+    <DeletedTextLocation Offset="3318" RevisionID="3"/>
+    <DeletedTextLocation Offset="3337" RevisionID="3"/>
+    <DeletedTextLocation Offset="3348" RevisionID="3"/>
+    <DeletedTextLocation Offset="3357" RevisionID="1"/>
+    <DeletedTextLocation Offset="3357" RevisionID="3"/>
+    <DeletedTextLocation Offset="3357" RevisionID="1"/>
+    <DeletedTextLocation Offset="3357" RevisionID="3"/>
+    <DeletedTextLocation Offset="3368" RevisionID="3"/>
+    <DeletedTextLocation Offset="3398" RevisionID="3"/>
+    <DeletedTextLocation Offset="3408" RevisionID="3"/>
+    <DeletedTextLocation Offset="3416" RevisionID="3"/>
+    <DeletedTextLocation Offset="3418" RevisionID="3"/>
+    <DeletedTextLocation Offset="3431" RevisionID="3"/>
+    <DeletedTextLocation Offset="3432" RevisionID="3"/>
+    <DeletedTextLocation Offset="3439" RevisionID="1"/>
+    <DeletedTextLocation Offset="3470" RevisionID="1"/>
+    <DeletedTextLocation Offset="3470" RevisionID="3"/>
+    <DeletedTextLocation Offset="3471" RevisionID="1"/>
+    <DeletedTextLocation Offset="3482" RevisionID="1"/>
+    <DeletedTextLocation Offset="3486" RevisionID="1"/>
+    <DeletedTextLocation Offset="3498" RevisionID="1"/>
+    <DeletedTextLocation Offset="3509" RevisionID="1"/>
+    <DeletedTextLocation Offset="3519" RevisionID="1"/>
+    <DeletedTextLocation Offset="3519" RevisionID="3"/>
+    <DeletedTextLocation Offset="3536" RevisionID="3"/>
+    <DeletedTextLocation Offset="3547" RevisionID="3"/>
+    <DeletedTextLocation Offset="3548" RevisionID="3"/>
+    <DeletedTextLocation Offset="3555" RevisionID="3"/>
+    <DeletedTextLocation Offset="3577" RevisionID="3"/>
+    <DeletedTextLocation Offset="3597" RevisionID="1"/>
+    <DeletedTextLocation Offset="3597" RevisionID="3"/>
+    <DeletedTextLocation Offset="3623" RevisionID="1"/>
+    <DeletedTextLocation Offset="3638" RevisionID="3"/>
+    <DeletedTextLocation Offset="3642" RevisionID="3"/>
+    <DeletedTextLocation Offset="3646" RevisionID="3"/>
+    <DeletedTextLocation Offset="3663" RevisionID="3"/>
+    <DeletedTextLocation Offset="3664" RevisionID="3"/>
+    <DeletedTextLocation Offset="3686" RevisionID="3"/>
+    <DeletedTextLocation Offset="3693" RevisionID="3"/>
+    <DeletedTextLocation Offset="3697" RevisionID="3"/>
+    <DeletedTextLocation Offset="3700" RevisionID="3"/>
+    <DeletedTextLocation Offset="3709" RevisionID="1"/>
+    <DeletedTextLocation Offset="3715" RevisionID="1"/>
+    <DeletedTextLocation Offset="3717" RevisionID="1"/>
+    <DeletedTextLocation Offset="3720" RevisionID="1"/>
+    <DeletedTextLocation Offset="3736" RevisionID="1"/>
+    <DeletedTextLocation Offset="3761" RevisionID="1"/>
+    <DeletedTextLocation Offset="3761" RevisionID="3"/>
+    <DeletedTextLocation Offset="3775" RevisionID="1"/>
+    <DeletedTextLocation Offset="3775" RevisionID="3"/>
+    <DeletedTextLocation Offset="3799" RevisionID="3"/>
+    <DeletedTextLocation Offset="3813" RevisionID="3"/>
+    <DeletedTextLocation Offset="3815" RevisionID="3"/>
+    <DeletedTextLocation Offset="3825" RevisionID="3"/>
+    <DeletedTextLocation Offset="3863" RevisionID="3"/>
+    <DeletedTextLocation Offset="3936" RevisionID="3"/>
+    <DeletedTextLocation Offset="3940" RevisionID="3"/>
+    <DeletedTextLocation Offset="3992" RevisionID="3"/>
+    <DeletedTextLocation Offset="3998" RevisionID="3"/>
+    <DeletedTextLocation Offset="4023" RevisionID="3"/>
+    <DeletedTextLocation Offset="4036" RevisionID="3"/>
+    <DeletedTextLocation Offset="4038" RevisionID="3"/>
+    <DeletedTextLocation Offset="4102" RevisionID="3"/>
+    <DeletedTextLocation Offset="4138" RevisionID="3"/>
+    <DeletedTextLocation Offset="4193" RevisionID="3"/>
+    <DeletedTextLocation Offset="4200" RevisionID="3"/>
+    <DeletedTextLocation Offset="4211" RevisionID="3"/>
+    <DeletedTextLocation Offset="4244" RevisionID="3"/>
+    <DeletedTextLocation Offset="4248" RevisionID="3"/>
+    <DeletedTextLocation Offset="4250" RevisionID="3"/>
+    <DeletedTextLocation Offset="4254" RevisionID="3"/>
+    <DeletedTextLocation Offset="4265" RevisionID="3"/>
+    <DeletedTextLocation Offset="4276" RevisionID="3"/>
+    <DeletedTextLocation Offset="4285" RevisionID="3"/>
+    <DeletedTextLocation Offset="4289" RevisionID="3"/>
+    <DeletedTextLocation Offset="4293" RevisionID="3"/>
+    <DeletedTextLocation Offset="4298" RevisionID="3"/>
+    <DeletedTextLocation Offset="4335" RevisionID="3"/>
+    <DeletedTextLocation Offset="4353" RevisionID="3"/>
+    <DeletedTextLocation Offset="4376" RevisionID="3"/>
+    <DeletedTextLocation Offset="4377" RevisionID="3"/>
+    <DeletedTextLocation Offset="4381" RevisionID="3"/>
+    <DeletedTextLocation Offset="4390" RevisionID="3"/>
+    <DeletedTextLocation Offset="4400" RevisionID="3"/>
+    <DeletedTextLocation Offset="4417" RevisionID="3"/>
+    <DeletedTextLocation Offset="4427" RevisionID="3"/>
+    <DeletedTextLocation Offset="4434" RevisionID="3"/>
+    <DeletedTextLocation Offset="4437" RevisionID="3"/>
+    <DeletedTextLocation Offset="4439" RevisionID="3"/>
+    <DeletedTextLocation Offset="4443" RevisionID="3"/>
+    <DeletedTextLocation Offset="4457" RevisionID="3"/>
+    <DeletedTextLocation Offset="4484" RevisionID="3"/>
+    <DeletedTextLocation Offset="4500" RevisionID="3"/>
+    <DeletedTextLocation Offset="4505" RevisionID="3"/>
+    <DeletedTextLocation Offset="4525" RevisionID="3"/>
+    <DeletedTextLocation Offset="4544" RevisionID="3"/>
+    <DeletedTextLocation Offset="4568" RevisionID="3"/>
+    <DeletedTextLocation Offset="4583" RevisionID="1"/>
+    <DeletedTextLocation Offset="4587" RevisionID="1"/>
+    <DeletedTextLocation Offset="4591" RevisionID="1"/>
+    <DeletedTextLocation Offset="4595" RevisionID="1"/>
+    <DeletedTextLocation Offset="4608" RevisionID="1"/>
+    <DeletedTextLocation Offset="4608" RevisionID="3"/>
+    <DeletedTextLocation Offset="4612" RevisionID="3"/>
+    <DeletedTextLocation Offset="4678" RevisionID="3"/>
+    <DeletedTextLocation Offset="4703" RevisionID="3"/>
+    <DeletedTextLocation Offset="4704" RevisionID="1"/>
+    <DeletedTextLocation Offset="4704" RevisionID="3"/>
+    <DeletedTextLocation Offset="4704" RevisionID="1"/>
+    <DeletedTextLocation Offset="4704" RevisionID="3"/>
+    <DeletedTextLocation Offset="4704" RevisionID="1"/>
+    <DeletedTextLocation Offset="4704" RevisionID="3"/>
+    <DeletedTextLocation Offset="4717" RevisionID="3"/>
+    <DeletedTextLocation Offset="4740" RevisionID="1"/>
+    <DeletedTextLocation Offset="4741" RevisionID="1"/>
+    <DeletedTextLocation Offset="4746" RevisionID="3"/>
+    <DeletedTextLocation Offset="4759" RevisionID="3"/>
+    <DeletedTextLocation Offset="4775" RevisionID="3"/>
+    <DeletedTextLocation Offset="4796" RevisionID="3"/>
+    <DeletedTextLocation Offset="4811" RevisionID="3"/>
+    <DeletedTextLocation Offset="4813" RevisionID="3"/>
+    <DeletedTextLocation Offset="4825" RevisionID="3"/>
+    <DeletedTextLocation Offset="4831" RevisionID="3"/>
+    <DeletedTextLocation Offset="4853" RevisionID="3"/>
+    <DeletedTextLocation Offset="4856" RevisionID="3"/>
+    <DeletedTextLocation Offset="4866" RevisionID="3"/>
+    <DeletedTextLocation Offset="4869" RevisionID="3"/>
+    <DeletedTextLocation Offset="4881" RevisionID="3"/>
+    <DeletedTextLocation Offset="4882" RevisionID="3"/>
+    <DeletedTextLocation Offset="4921" RevisionID="3"/>
+    <DeletedTextLocation Offset="4922" RevisionID="3"/>
+    <DeletedTextLocation Offset="4941" RevisionID="3"/>
+    <DeletedTextLocation Offset="4942" RevisionID="3"/>
+    <DeletedTextLocation Offset="4948" RevisionID="3"/>
+    <DeletedTextLocation Offset="4953" RevisionID="1"/>
+    <DeletedTextLocation Offset="4953" RevisionID="3"/>
+    <DeletedTextLocation Offset="4954" RevisionID="1"/>
+    <DeletedTextLocation Offset="4970" RevisionID="3"/>
   </DeletedText>
 
   <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="0">
