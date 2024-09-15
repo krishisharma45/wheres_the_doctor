@@ -7,15 +7,15 @@
 
   <Content>
     <Paragraph Type="Scene Heading" id="5982609c-8638-454f-805d-d01611279451">
-      <SceneProperties Length="4 7/8" Page="1" Title="">
+      <SceneProperties Length="3 2/8" Page="1" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="DR. LUCINDA">
+          <CharacterArcBeat Name="DR. TERESA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LUCINDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="MARK">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="MARY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PRIYA">
@@ -37,14 +37,16 @@
       <Text AdornmentStyle="-1">HOKA</Text>
       <Text> sneakers. She’s holding a black hand bag.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="4f99ea4f-2006-4a47-a4c1-4a4acb5b36df">
-      <Text>We hear CONSTRUCTION NOISES in the background.</Text>
-    </Paragraph>
     <Paragraph Type="Character" id="15a74f18-e7bd-46fe-8de8-5f6dcd7685e1">
       <Text AdornmentStyle="-1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="b33c28b4-2fbb-435b-b33a-cd8cba0541c9">
       <Text>Where is the doctor?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d8fc8e98-b120-480e-b36b-270f0e9157ad">
+      <Text RevisionID="1">We hear CONSTRUCTION NOISES coming from above. </Text>
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
+      <Text RevisionID="1"> looks up.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="2935bf49-b106-40d0-9448-04413d716188">
       <Text>Knock knock. TIM walks in with a yellow notepad and a pencil tucked behind his ear.</Text>
@@ -59,25 +61,22 @@
       <Text AdornmentStyle="-1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="511e53ac-e028-4b3b-8ac3-4bc592be9b12">
-      <Text>I’ve got something weird growing on my foot. It’s been going on for a week now, and it’s really affecting my work.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="7d827866-f045-4096-8846-ddf1afb1749a">
-      <Text>Tim</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6a3824a1-1ed4-4d29-91d8-47b89ff6ec1b">
-      <Text>Ah, and what is it that you do?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="53fe9b6f-c7d7-411d-b79c-33ba6f5758ac">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="ed84330d-ed3c-4592-aeec-b889611f5fa6">
-      <Text>I’m a foot model on OnlyFans and I need this foot looking clean before my next photo shoot in an hour.</Text>
+      <Text RevisionID="1">Hi, </Text>
+      <Text>I’ve got something weird growing on my foo</Text>
+      <Text RevisionID="1">t.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="518dc5f1-d993-454c-9c34-46694a053465">
       <Text>Tim</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="3a246c77-b1ae-4294-bb92-0ae9b6bb0792">
-      <Text>I see. I’ll make sure that the doctor knows this is top priority. Let’s get this foot problem fixed. </Text>
+      <Text RevisionID="1">Is it a toenail? </Text>
+      <Text> </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="01e6d9bd-ad69-438e-a9a2-9c41ee5be9ba">
+      <Text RevisionID="1">(chuckles)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="11409afa-6bd6-4de1-9689-5853d9528bf3">
+      <Text RevisionID="1">We’ll have the doctor come in shortly.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="504d436b-e445-44f0-995d-de3c4c16a2ce">
       <Text AdornmentStyle="-1">Priya</Text>
@@ -89,337 +88,212 @@
       <Text>Tim</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="71b4f944-79d4-4911-9fdd-46dd1fb56f09">
-      <Text>Oh, no, I’m the care specialist here. I just get to know the patients so the doctor doesn’t have to.</Text>
+      <Text>Oh, no, I’m </Text>
+      <Text RevisionID="1">part of your care team. I’ll bring the doctor in shortly.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="71b1d455-1206-4565-a304-d466b522437e">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="3822b5d1-8a17-4549-b470-99c65cabe4c4">
-      <Text>It’s been an hour since the medical assistant came in. Where. Is. The doctor?!</Text>
+    <Paragraph Type="Dialogue" id="3822b5d1-8a17-4549-b470-99c65cabe4c4"/>
+    <Paragraph Type="Action" id="d6269a97-993e-4516-896d-1b2d66f1116e">
+      <Text RevisionID="1">Tim leaves the room.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="d6269a97-993e-4516-896d-1b2d66f1116e">
-      <Text>Knock knock. DR. LUCINDA walks in. She wears a white lab coat and has a warm smile.</Text>
+      <Text>Knock knock. LUCINDA walks in. She wears a white lab coat and has a warm smile.</Text>
+      <Text RevisionID="1"> She closes the door behind her.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="69338217-8b97-4290-a6d2-ad0e8b1d1e5c">
-      <Text>DR. Lucinda</Text>
+      <Text>Lucinda</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="1320865e-1199-4a22-bc0c-5fb57bc882be">
-      <Text>I see our patient her has become impatient.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="9fd2ae07-56ec-4150-9465-5db83b124584">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="75e0911f-361d-4ebf-99a6-1f8bbba3284e">
-      <Text>I’m sorry, doctor, I’m just late for my photo shoot -</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="794216ff-1952-408a-8288-ee145574a26b">
-      <Text>Tim</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6963f8b9-09db-4923-abf6-85efa8073634">
-      <Text>She’s on OnlyFans. </Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="3b35e8f9-c3d9-4281-afe6-9eca522012a5">
-      <Text>(beat)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6963f8b9-09db-4923-abf6-85efa8073634">
-      <Text>Uh, wait, it’s not how it sounds, she told me that.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="9a1a1563-dd7b-4859-9ca8-1824ad5ddba9">
-      <Text>Dr. Lucinda</Text>
-    </Paragraph>
+    <Paragraph Type="Dialogue" id="75e0911f-361d-4ebf-99a6-1f8bbba3284e"/>
     <Paragraph Type="Dialogue" id="c08f81c4-1918-4073-8bc7-5f5c750e7167">
-      <Text>Timothy, our patient has a right to privacy. Now (turns to </Text>
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text>), how do you feel?</Text>
+      <Text RevisionID="1">Hi, I’m Lucinda and I’m here to take care of you. How are you feeling?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a8458aa4-0353-4d60-a45d-82fcc024096e">
       <Text AdornmentStyle="-1">Priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="3a63352c-88bb-4e2b-9802-bc007d88dbdf">
-      <Text>My foot doesn’t hurt - </Text>
+      <Text>My </Text>
+      <Text RevisionID="1">foot has been in pain lately.</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical" id="1623b785-0ddd-4fd1-a8e4-62566254253a">
       <Text>(she removes her sneaker)</Text>
     </Paragraph>
+    <Paragraph Type="Action" id="b84f1f8b-17d9-4f6a-ba3b-db087869864b">
+      <Text RevisionID="1">Lucinda motions her to stop.</Text>
+    </Paragraph>
     <Paragraph Type="Character" id="c939851e-4ae4-4ff0-bd2f-3a9d2fdabfdf">
-      <Text>Dr. LUCINDA</Text>
+      <Text>LUCINDA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="01300cd7-65c8-495c-895e-185f314b7629">
-      <Text>No, I mean in here</Text>
+      <Text RevisionID="1">I don’t handle medical issues, I’m not a doctor sweetheart. </Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="b9e6e32e-8fa2-4a27-83ed-5eec34a9e7c6">
-      <Text>(points to her own heart)</Text>
+    <Paragraph Type="Character" id="f270dd2c-556a-4539-bbd4-4d437e3f5cb8">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0a0eb993-30a4-458f-9e12-357fe129ae58">
+      <Text RevisionID="1">Well, then what are you? </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dbe54665-a6d6-4b67-8b76-f5ed50db5224">
+      <Text RevisionID="1">Lucinda walks towards a poster of a foot with a bunion. She points to the bunion.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f22eff72-5317-4979-babd-17905193a1b0">
+      <Text RevisionID="1">Lucinda</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0d225ab6-b192-490c-a9fe-4193ffe4e8c8">
+      <Text RevisionID="1">See, a problem here, typically stems from a problem in here. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8714dbf3-fae0-42bd-8948-c08fcfdc732e">
+      <Text RevisionID="1">(points to her heart)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="10ae8462-32af-4561-a18d-b62c1d4119ab">
+      <Text RevisionID="1">So we treat patients head to toe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="63cce6a2-8d27-4cbc-8caf-6eb5d8054541">
+      <Text AdornmentStyle="-1" RevisionID="1">PriYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1b01d394-02dc-4ea7-8f33-2576f62c3e71">
+      <Text RevisionID="1">Are you a THERAPIST?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0b256f1f-fdd9-4fe5-957b-37554a50f347">
+      <Text RevisionID="1">Lucinda</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="28141135-22dd-4890-812f-a78a6b5f77a0">
+      <Text RevisionID="1">We believe in a holistic approach.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="443a177b-9e73-4f92-9fa3-de44051e90f2">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="14825885-73ee-40cc-b350-f201ddb36c70">
+      <Text RevisionID="1">Not to sound rude, but I just need like a cream or something. It’s not that serious. Where is the doctor?</Text>
     </Paragraph>
     <Paragraph Type="Action" id="b7add348-4775-437c-a3cd-a64e6b5b55e2">
       <Text>In the background, we hear a SAW cutting through something.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="6c7d1cc7-e858-4bbc-944f-7ec335223c87">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="cb708a3b-8e39-4772-ae58-b6ff3fb07990">
-      <Text>Wait, what. I thought you were a doctor?</Text>
-    </Paragraph>
     <Paragraph Type="Character" id="732daf7a-0e35-4ddd-bb1d-3c96b532793f">
-      <Text>Dr. LUCINDA</Text>
+      <Text AdornmentStyle="-1" RevisionID="1">priya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="264645ae-28bf-4821-bc8f-a640d47e1c01">
-      <Text>I am! </Text>
+      <Text RevisionID="1">Am I even in the right place? Where is - </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dbce1615-b9bc-4824-9738-5baa95841955">
+      <Text RevisionID="1">Knock knock. The door swings open. MARK, a tall man with a clean shaven face wears a button down shirt. He steps in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="22ed8a34-546c-4ffe-ab7d-7eec17187116">
+      <Text RevisionID="1">Mark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="04a9d80a-3235-429e-82de-89fa646b03ab">
+      <Text RevisionID="1">Hello Lucinda, how’s our patient doing?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="25af9f50-fd98-4e77-b5a5-4e54e7b34945">
       <Text AdornmentStyle="-1">PrIYA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="7b085297-756e-400c-a56d-b5b888384cef">
-      <Text>What is it that you do?</Text>
+      <Text RevisionID="1">Hi, I’m </Text>
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
+      <Text RevisionID="1">, I’ve been waiting for the doctor. I just need them to look at my foot. Are you the doctor?</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="9243d8e5-2b1b-46df-aa5b-33c794a2f84b">
-      <Text>Dr. LUCINDA</Text>
+    <Paragraph Type="Character" id="2fb69bd5-72b6-4343-b864-e66f551728d5">
+      <Text RevisionID="1">Mark</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="5e49365b-1f68-493a-a5c5-96cc8ce4a398">
-      <Text>I’m a therapist of course! We here at Hearth Clinics find that our appointments with our patients do best if they FEEL their best. </Text>
+    <Paragraph Type="Dialogue" id="b206b2af-b6cc-4ea3-9f7a-6b3433638a34">
+      <Text RevisionID="1">I wish, I’m from the billing department. </Text>
     </Paragraph>
-    <Paragraph Type="Character" id="7722be46-b602-4dd0-ae6f-153a60cbeecc">
-      <Text>Tim</Text>
+    <Paragraph Type="Action" id="71d34ee5-93fa-4603-9ce6-89fc7c06c5ad">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
+      <Text RevisionID="1"> waves her hands in the air out of exasperation.</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="2406df67-3cb4-463a-bbd6-ecbf863a7889">
-      <Text>We work together, to make sure you feel good from head to toe.</Text>
+    <Paragraph Type="Character" id="069c701c-b970-41a5-b97b-ec7a11162232">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="e0d5fad4-05cd-4af1-9ba0-d92d2f5e6a5f">
-      <Text>Dr. LUCINDA</Text>
+    <Paragraph Type="Dialogue" id="0b7986da-66c9-4cff-bc56-81d09f8e5623">
+      <Text RevisionID="1">Billing? How can I pay for an appointment that hasn’t happened?</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="efb8a1d8-015c-481c-b37e-cc71490be8b4">
-      <Text>We believe in a holistic approach.</Text>
+    <Paragraph Type="Action" id="7334d6d6-0485-450d-83c4-782ac04f9252">
+      <Text RevisionID="1">Mark sits on the exam table and motions at her with both hands.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="896070df-5aba-4d6b-8d13-d126c5bf19a1">
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> looks at her watch and grabs her bag, shaking her head.</Text>
+    <Paragraph Type="Character" id="6e422ce0-ad23-4cf2-92e5-b23a89d74bef">
+      <Text RevisionID="1">Mark</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="aa6cc79d-3ce8-4126-97f7-7d3f6671a6f1">
-      <Text AdornmentStyle="-1">Priya</Text>
+    <Paragraph Type="Dialogue" id="117ffc29-ccba-4e99-8891-d8d2a3b6385e">
+      <Text RevisionID="1">Now I don’t want to put my foot in my mouth, but you seem unaware of typical medical visits. Usually the patient does have to pay for the services.</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="68e94cce-d941-483e-87c6-5d2b1adc779a">
-      <Text>This is ridiculous, I just need to see an MD-</Text>
+    <Paragraph Type="Character" id="f8b8d5e1-ab4a-45ef-ba24-52b0f7cab9c9">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="02b9711a-e019-490f-9cf9-33fb803a4530">
-      <Text>Dr. LUCINDA</Text>
+    <Paragraph Type="Dialogue" id="041bdd69-5ccc-4dd7-9571-fe19aa109dc6">
+      <Text RevisionID="1">I will. Once I finish my appointment. Where. IS. THE DOCTOR?!</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="3efe428e-b326-49f8-a216-1bc54e00f8fc">
-      <Text>I can see if the Managing Director is in today.</Text>
+    <Paragraph Type="Action" id="02c74fe2-8e93-4ba9-a393-5f3d50dee2c6">
+      <Text RevisionID="1">The door bursts open and a DR. TERESA, small woman with mousy brown hair rushes in. She takes a look around the crowded exam room.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="47859c2d-a4db-40b6-bff5-6f4db622fed9">
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> groans.</Text>
+    <Paragraph Type="Character" id="5ee7624d-c87c-4502-868f-f2129a78b888">
+      <Text RevisionID="1">DR. TERESA</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="30b97cdc-0194-4226-af53-ad32bdcc8c6f">
-      <Text>Tim</Text>
+    <Paragraph Type="Dialogue" id="c31245a7-fcfb-42bf-8696-fb2cfc52d84c">
+      <Text RevisionID="1">Hi, I heard some yelling. Is everything okay here?</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="b715f5a6-470a-4bdf-a0bc-f0b52aa6c4cf">
-      <Text>Doctor, she means Maryland.</Text>
+    <Paragraph Type="Character" id="afdfbb03-1e04-4741-886e-24772ebaaf1f">
+      <Text RevisionID="1">Mark</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="f61ec2a0-bd85-4d05-84a6-9fbb49840463">
-      <Text AdornmentStyle="-1">Priya</Text>
+    <Paragraph Type="Dialogue" id="b31a1686-918a-4718-8a78-78c4bcdaa306">
+      <Text RevisionID="1">This young lady doesn’t want to foot the bill.</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="9c2ba571-d1ea-404d-9aa7-658eed352a63">
-      <Text>I need a medical doctor, you know, someone who can fix THIS.</Text>
+    <Paragraph Type="Character" id="e0a2fd88-4df3-4286-81c6-eafdb55cda17">
+      <Text RevisionID="1">Lucinda</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="6d65eaaa-8d08-4976-b5dc-7109c51e4ddf">
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> rips off her sock and shows them the growth on her big toe.</Text>
+    <Paragraph Type="Dialogue" id="afc71877-bf65-4661-a5e2-06c4c9ec179d">
+      <Text RevisionID="1">She’s also against holistic treatment. </Text>
     </Paragraph>
-    <Paragraph Type="Character" id="5e53e83f-b8e6-4a20-a557-9db1c74306e4">
-      <Text>Tim</Text>
+    <Paragraph Type="Character" id="1562e811-82fc-4a48-8e11-8974e7e9338f">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="5923067f-de54-4241-ac37-5f8ff3bdd1c1">
-      <Text>Oh, my, you should get that taken care of instead of going to see Maryland.</Text>
+    <Paragraph Type="Dialogue" id="9a207bce-6f0a-4987-b6c2-060d04244835">
+      <Text RevisionID="1">I am just here for a simple, ordinary doctor’s appointment. I don’t need a therapist. I don’t need the billing department. What are you, a phlebotomist? Are you the spiritual healer? </Text>
     </Paragraph>
-    <Paragraph Type="Action" id="66dbcbee-f709-464a-a3e3-bf3a596adb4d">
-      <Text>Dr. Lucinda sympathetically nods in agreement. </Text>
+    <Paragraph Type="Character" id="a02e4b0a-6a36-419d-8892-1e077c09fb99">
+      <Text RevisionID="1">Dr. TERESA</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="9f98f3d1-efd2-4e38-8c2c-01b1a43e5b36">
-      <Text>Dr. LUCINDA</Text>
+    <Paragraph Type="Dialogue" id="2e3303a1-a838-43fc-a5ac-78f841ecacf5">
+      <Text RevisionID="1">Actually, I’m the doctor, and I wanted to start your appointment-</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="a321c9cb-6300-43ac-9720-7c2e05c7610f">
-      <Text>It’s not that great. </Text>
+    <Paragraph Type="Action" id="48cd61b0-224c-498f-894e-6e1d766bb32a">
+      <Text RevisionID="1">All of a sudden, a chainsaw crashes through the </Text>
+      <Text RevisionID="1">ceiling</Text>
+      <Text RevisionID="1"> and falls onto </Text>
+      <Text AdornmentStyle="-1" RevisionID="1">Priya’s</Text>
+      <Text RevisionID="1"> foot.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="0bf73281-f151-4028-a0ac-84aebee8a3c9">
-      <Text AdornmentStyle="-1">PRIYA</Text>
+    <Paragraph Type="Character" id="6355daf4-e9e5-4fd0-8d81-176e7b1ad9f0">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="1ec29b65-d128-4c91-a413-7ba36e51751b">
-      <Text>That’s why I’m here! I just need to see the doctor and get the cream. No therapy, no care, no feelings - </Text>
+    <Paragraph Type="Dialogue" id="64724ee1-c3b8-4c01-838b-76bfbb4d4757">
+      <Text AdornmentStyle="-1" RevisionID="1">OWWWWW</Text>
+      <Text RevisionID="1">!!!!!</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="b525937e-18d5-4a8a-8776-6053bd7acf86">
-      <Text>Knock. Knock. MARK, a tall, handsome man, walks into the crowded exam room. He swings the door open.</Text>
+    <Paragraph Type="Character" id="df16892e-1921-43ce-ada8-19bdf7598a0a">
+      <Text RevisionID="1">Dr. TERESA</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="8fb084a3-27ee-4fe2-8309-3442108aa62f">
-      <Text>Mark</Text>
+    <Paragraph Type="Dialogue" id="f4bf11d4-fa92-4ceb-8d9c-6b23a7358372">
+      <Text RevisionID="1">Thank goodness it was just your foot. So, what would you like me to see today? </Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="49c295a6-64ca-4459-9036-f5fb4c74a19b">
-      <Text>Hello, I’m Mark. Who am I working with today?</Text>
+    <Paragraph Type="Action" id="c37abdab-8011-48b3-8751-64f3a9cea25a">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
+      <Text RevisionID="1"> looks down at her foot, which is severed from her body. The blood starts spurting out. She looks up at the doctor.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="b500f0b4-3ec2-4a26-a80e-6c1f8f72b974">
-      <Text>He looks around at the three people in the room.</Text>
+    <Paragraph Type="Character" id="e97a2ff1-d70a-41f0-bc9d-57294897114e">
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="838d3700-2380-4034-8695-3c4d5f37cdb8">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="a98e338e-9fc1-48f6-b62f-f4ce3c2c2350">
-      <Text>Hi, Dr. Mark, I’m </Text>
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> -</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="ccf2fe0b-f1d0-4871-bdd4-5c7092d876ff">
-      <Text>Mark</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="f927700b-f0a2-4f5d-8c79-d29917cf37fe">
-      <Text>Hi, </Text>
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text>. I’m actually not the doctor, I’m with the billing department.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="bc6e9935-663d-478d-8852-ed8b08098987">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="244136b1-4c96-4b5d-bc9c-42076b9bc273">
-      <Text>BILLING? How can I pay for appointment that hasn’t even started?!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="3311535b-8ef9-496f-9a9e-0086b7f2d5b8">
-      <Text>Dr. LUCINDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="2a710e62-51cf-4874-8f04-02d5cd30d1f9">
-      <Text>Mark, she’s waiting to see the Managing Director.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="77516511-a325-44dd-acce-dc0dd9946dde">
-      <Text>Tim</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="10039b28-5340-4d1a-9f31-3a51391b1be1">
-      <Text>She needs to go to Maryland.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="fdb00895-54f5-49d7-aaca-5ef21af02b82">
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> grabs her bag and grabs her sock and shoe from the floor.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="8d2d7003-d027-4cdf-89cf-7cad8c9ff318">
-      <Text AdornmentStyle="-1">PriYA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="57a18bd5-c62d-4273-8079-3be4877a1cc2">
-      <Text>I’ve had it. This is completely ridiculous. Sir (turns to Mark) I’ve been waiting for the doctor for an HOUR, and these clowns (points to Tim and Dr. Lucinda) have wasted my time -</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="069d2b0e-d0d6-49c3-8ed1-c4c2392f30e7">
-      <Text>MARY, a petite woman, holds a clipboard and walks through the open door. She reads notes from the clipboard and doesn’t notice who is in the room as she walks in.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="152f4767-c99b-451a-98a6-af844f040b65">
-      <Text>Mary</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="c34d144f-f33f-4c4b-b952-a78b913a1452">
-      <Text>(reads)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="f1b65fe3-f7f8-4275-a2f1-6f1182035065">
-      <Text>Ok, so what are you in here for today, Miss -</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="e488e084-1450-4508-a45a-f5e893047a31">
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> gets up from the chair and puts her bare foot on the ground. Her sock and shoe are in her right hand.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="cd6a4068-edc5-4553-85f2-d356559bdfe3">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="5b124c81-3072-44a4-ac1d-c85d8d831f1b">
-      <Text>That’s ENOUGH (wags her hand holding the shoe at Mary). This is a complete CIRCUS -</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="a46d96af-8c92-43b4-b410-b910e277cd05">
-      <Text>Mary</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="0d432634-394a-4fd1-af9d-cabe7022f63c">
-      <Text>Now, listen </Text>
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text>, I know it can be a long wait, but we just want to make sure our patients are taken -</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="ad634a30-bd84-43c1-9797-d552eb6fb1b7">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="50050f7f-df9b-44a3-83c9-c4bb1885f67b">
-      <Text>No, you listen here. I don’t care about the 10 million services you all provide. I don’t need a therapist, or someone from billing, or a director -</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="3f6a0da4-9187-46d3-8359-0edea7219244">
-      <Text>Mary</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="418ce19b-4824-495e-a42f-c53c1960a0e0">
-      <Text>- now, listen, we don’t tolerate disrespect at this clinic. We are here to treat you -</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="297a8402-6a95-400e-8223-fd29ac6931b2">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="167824db-1c43-4e9e-9a51-1bb3fa9797df">
-      <Text>Medically. I need to be treated MEDICALLY.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="fb0b6e80-3b83-4c5a-8ea0-eeefe39ab7fa">
-      <Text>Mary</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="b8f0079d-f3fc-40fe-81b9-2b5e369711d5">
-      <Text>That’s what I’m trying to say. I’m your doctor, and I’m here to start your appointment. Are you ok with (checks clipboard) </Text>
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text>?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="649a0b72-277f-4f81-951d-481823c7d19f">
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> lowers her hand and nods. She sits down on the chair. </Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="dbecc168-3472-4ffa-9cb7-553fa58b9c41">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="eea85228-0ef5-4cc5-a12c-03a9b6f8e777">
-      <Text>See, my problem is that -</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="434fa241-d267-48ed-b4ca-2cda3c7dcc0d">
-      <Text>All of a sudden, the ceiling collapses and a electric chainsaw crashes down on the floor -</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="27d4cafe-ecc9-4156-9181-747a506570d9">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="4b476984-4293-4fc1-99df-4cf547fa8f8c">
-      <Text AdornmentStyle="-1">OWWWW</Text>
-      <Text>!!!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="cef22f1c-a04c-4311-9d27-835e7a885ed0">
-      <Text>- and onto </Text>
-      <Text AdornmentStyle="-1">Priya’s</Text>
-      <Text> foot, severing her exposed big toe from her foot.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="05583b35-c273-4995-b349-5124bf1fc5f0">
-      <Text>Tim</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="0c437bb2-a9b7-426b-9c20-35cb0b9eba83">
-      <Text>Oh my, you should get that taken care of.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="13fccc1a-add0-4b8f-8b47-1e160bf003cc">
-      <Text>Dr. LUCINDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="7a91306d-4371-4071-804b-25beb06593ef">
-      <Text>How do you feel? </Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="367a9f91-83c0-4d9a-901e-af6f985bfd8b">
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> moans and holds her toe. </Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="55c92a96-92d3-4a2c-aac5-2ef457bbfda4">
-      <Text AdornmentStyle="-1">Priya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6860c3e0-8544-4999-8acd-15edba291989">
-      <Text>My career is over!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="6e3716a4-6742-430c-aab3-146040d3ce89">
-      <Text>Mary</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="5f857644-a651-4809-a005-975ea429e04c">
-      <Text>Now, listen, you’ll land on your feet. Let’s start with what you came in here for?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="c9d79b3a-b923-4816-ad38-2cac56c0a0dc">
-      <Text AdornmentStyle="-1">Priya</Text>
-      <Text> turns to her and stares.</Text>
+    <Paragraph Type="Dialogue" id="bcecc927-92e9-47d2-9bf2-274f5d47f8e2">
+      <Text RevisionID="1">It’s gone now.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="cec6db03-2c66-42dd-aa72-a26a893bdec8">
       <Text>Mark</Text>
     </Paragraph>
+    <Paragraph Type="Parenthetical" id="d53efadb-7c3a-4556-954f-bd2250f54201">
+      <Text RevisionID="1">(to </Text>
+      <Text AdornmentStyle="-1" RevisionID="1">Priya</Text>
+      <Text RevisionID="1">)</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue" id="166e531e-d50f-4cdf-9a5e-c5df5b5ae82f">
-      <Text>We will still bill you for that.</Text>
+      <Text RevisionID="1">Here’s your bill.</Text>
     </Paragraph>
   </Content>
 
@@ -464,9 +338,9 @@
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="1320" Left="0" Mode="Normal" Top="95" Width="2240"/>
+  <WindowState Height="1310" Left="0" Mode="Normal" Top="105" Width="2240"/>
 
-  <TextState Scaling="175" Selection="278,278" ShowInvisibles="No"/>
+  <TextState Scaling="175" Selection="39,39" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -679,6 +553,7 @@
       <Character>LAZLO</Character>
       <Character>Mary</Character>
       <Character>Mark</Character>
+      <Character>DR. TERESA</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -736,7 +611,7 @@
 
   <LockedPages/>
 
-  <Revisions ActiveSet="1" Location="7.75" RevisionMode="Yes" RevisionsShown="Active" ShowPageColor="No">
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="None" ShowPageColor="No">
     <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
     <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
     <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
@@ -757,6 +632,172 @@
     <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
+
+  <DeletedText>
+    <DeletedTextLocation Offset="297" RevisionID="1"/>
+    <DeletedTextLocation Offset="569" RevisionID="1"/>
+    <DeletedTextLocation Offset="612" RevisionID="1"/>
+    <DeletedTextLocation Offset="619" RevisionID="1"/>
+    <DeletedTextLocation Offset="733" RevisionID="1"/>
+    <DeletedTextLocation Offset="770" RevisionID="1"/>
+    <DeletedTextLocation Offset="791" RevisionID="1"/>
+    <DeletedTextLocation Offset="826" RevisionID="1"/>
+    <DeletedTextLocation Offset="925" RevisionID="1"/>
+    <DeletedTextLocation Offset="933" RevisionID="1"/>
+    <DeletedTextLocation Offset="934" RevisionID="1"/>
+    <DeletedTextLocation Offset="939" RevisionID="1"/>
+    <DeletedTextLocation Offset="952" RevisionID="1"/>
+    <DeletedTextLocation Offset="982" RevisionID="1"/>
+    <DeletedTextLocation Offset="987" RevisionID="1"/>
+    <DeletedTextLocation Offset="1001" RevisionID="1"/>
+    <DeletedTextLocation Offset="1014" RevisionID="1"/>
+    <DeletedTextLocation Offset="1040" RevisionID="1"/>
+    <DeletedTextLocation Offset="1042" RevisionID="1"/>
+    <DeletedTextLocation Offset="1069" RevisionID="1"/>
+    <DeletedTextLocation Offset="1070" RevisionID="1"/>
+    <DeletedTextLocation Offset="1078" RevisionID="1"/>
+    <DeletedTextLocation Offset="1099" RevisionID="1"/>
+    <DeletedTextLocation Offset="1107" RevisionID="1"/>
+    <DeletedTextLocation Offset="1115" RevisionID="1"/>
+    <DeletedTextLocation Offset="1130" RevisionID="1"/>
+    <DeletedTextLocation Offset="1159" RevisionID="1"/>
+    <DeletedTextLocation Offset="1165" RevisionID="1"/>
+    <DeletedTextLocation Offset="1199" RevisionID="1"/>
+    <DeletedTextLocation Offset="1200" RevisionID="1"/>
+    <DeletedTextLocation Offset="1214" RevisionID="1"/>
+    <DeletedTextLocation Offset="1239" RevisionID="1"/>
+    <DeletedTextLocation Offset="1250" RevisionID="1"/>
+    <DeletedTextLocation Offset="1331" RevisionID="1"/>
+    <DeletedTextLocation Offset="1333" RevisionID="1"/>
+    <DeletedTextLocation Offset="1351" RevisionID="1"/>
+    <DeletedTextLocation Offset="1358" RevisionID="1"/>
+    <DeletedTextLocation Offset="1360" RevisionID="1"/>
+    <DeletedTextLocation Offset="1368" RevisionID="1"/>
+    <DeletedTextLocation Offset="1372" RevisionID="1"/>
+    <DeletedTextLocation Offset="1373" RevisionID="1"/>
+    <DeletedTextLocation Offset="1374" RevisionID="1"/>
+    <DeletedTextLocation Offset="1407" RevisionID="1"/>
+    <DeletedTextLocation Offset="1408" RevisionID="1"/>
+    <DeletedTextLocation Offset="1414" RevisionID="1"/>
+    <DeletedTextLocation Offset="1443" RevisionID="1"/>
+    <DeletedTextLocation Offset="1460" RevisionID="1"/>
+    <DeletedTextLocation Offset="1492" RevisionID="1"/>
+    <DeletedTextLocation Offset="1501" RevisionID="1"/>
+    <DeletedTextLocation Offset="1506" RevisionID="1"/>
+    <DeletedTextLocation Offset="1568" RevisionID="1"/>
+    <DeletedTextLocation Offset="1569" RevisionID="1"/>
+    <DeletedTextLocation Offset="1589" RevisionID="1"/>
+    <DeletedTextLocation Offset="1650" RevisionID="1"/>
+    <DeletedTextLocation Offset="1656" RevisionID="1"/>
+    <DeletedTextLocation Offset="1657" RevisionID="1"/>
+    <DeletedTextLocation Offset="1672" RevisionID="1"/>
+    <DeletedTextLocation Offset="1703" RevisionID="1"/>
+    <DeletedTextLocation Offset="1733" RevisionID="1"/>
+    <DeletedTextLocation Offset="1737" RevisionID="1"/>
+    <DeletedTextLocation Offset="1766" RevisionID="1"/>
+    <DeletedTextLocation Offset="1775" RevisionID="1"/>
+    <DeletedTextLocation Offset="1807" RevisionID="1"/>
+    <DeletedTextLocation Offset="1809" RevisionID="1"/>
+    <DeletedTextLocation Offset="1825" RevisionID="1"/>
+    <DeletedTextLocation Offset="1833" RevisionID="1"/>
+    <DeletedTextLocation Offset="1839" RevisionID="1"/>
+    <DeletedTextLocation Offset="1842" RevisionID="1"/>
+    <DeletedTextLocation Offset="1859" RevisionID="1"/>
+    <DeletedTextLocation Offset="1866" RevisionID="1"/>
+    <DeletedTextLocation Offset="1870" RevisionID="1"/>
+    <DeletedTextLocation Offset="1874" RevisionID="1"/>
+    <DeletedTextLocation Offset="1877" RevisionID="1"/>
+    <DeletedTextLocation Offset="1927" RevisionID="1"/>
+    <DeletedTextLocation Offset="1950" RevisionID="1"/>
+    <DeletedTextLocation Offset="1951" RevisionID="1"/>
+    <DeletedTextLocation Offset="2018" RevisionID="1"/>
+    <DeletedTextLocation Offset="2082" RevisionID="1"/>
+    <DeletedTextLocation Offset="2129" RevisionID="1"/>
+    <DeletedTextLocation Offset="2133" RevisionID="1"/>
+    <DeletedTextLocation Offset="2172" RevisionID="1"/>
+    <DeletedTextLocation Offset="2195" RevisionID="1"/>
+    <DeletedTextLocation Offset="2226" RevisionID="1"/>
+    <DeletedTextLocation Offset="2232" RevisionID="1"/>
+    <DeletedTextLocation Offset="2264" RevisionID="1"/>
+    <DeletedTextLocation Offset="2270" RevisionID="1"/>
+    <DeletedTextLocation Offset="2272" RevisionID="1"/>
+    <DeletedTextLocation Offset="2278" RevisionID="1"/>
+    <DeletedTextLocation Offset="2289" RevisionID="1"/>
+    <DeletedTextLocation Offset="2320" RevisionID="1"/>
+    <DeletedTextLocation Offset="2332" RevisionID="1"/>
+    <DeletedTextLocation Offset="2348" RevisionID="1"/>
+    <DeletedTextLocation Offset="2351" RevisionID="1"/>
+    <DeletedTextLocation Offset="2353" RevisionID="1"/>
+    <DeletedTextLocation Offset="2355" RevisionID="1"/>
+    <DeletedTextLocation Offset="2367" RevisionID="1"/>
+    <DeletedTextLocation Offset="2381" RevisionID="1"/>
+    <DeletedTextLocation Offset="2387" RevisionID="1"/>
+    <DeletedTextLocation Offset="2393" RevisionID="1"/>
+    <DeletedTextLocation Offset="2434" RevisionID="1"/>
+    <DeletedTextLocation Offset="2456" RevisionID="1"/>
+    <DeletedTextLocation Offset="2457" RevisionID="1"/>
+    <DeletedTextLocation Offset="2465" RevisionID="1"/>
+    <DeletedTextLocation Offset="2472" RevisionID="1"/>
+    <DeletedTextLocation Offset="2491" RevisionID="1"/>
+    <DeletedTextLocation Offset="2501" RevisionID="1"/>
+    <DeletedTextLocation Offset="2512" RevisionID="1"/>
+    <DeletedTextLocation Offset="2523" RevisionID="1"/>
+    <DeletedTextLocation Offset="2534" RevisionID="1"/>
+    <DeletedTextLocation Offset="2548" RevisionID="1"/>
+    <DeletedTextLocation Offset="2551" RevisionID="1"/>
+    <DeletedTextLocation Offset="2573" RevisionID="1"/>
+    <DeletedTextLocation Offset="2579" RevisionID="1"/>
+    <DeletedTextLocation Offset="2594" RevisionID="1"/>
+    <DeletedTextLocation Offset="2611" RevisionID="1"/>
+    <DeletedTextLocation Offset="2659" RevisionID="1"/>
+    <DeletedTextLocation Offset="2672" RevisionID="1"/>
+    <DeletedTextLocation Offset="2681" RevisionID="1"/>
+    <DeletedTextLocation Offset="2692" RevisionID="1"/>
+    <DeletedTextLocation Offset="2727" RevisionID="1"/>
+    <DeletedTextLocation Offset="2737" RevisionID="1"/>
+    <DeletedTextLocation Offset="2747" RevisionID="1"/>
+    <DeletedTextLocation Offset="2758" RevisionID="1"/>
+    <DeletedTextLocation Offset="2762" RevisionID="1"/>
+    <DeletedTextLocation Offset="2774" RevisionID="1"/>
+    <DeletedTextLocation Offset="2785" RevisionID="1"/>
+    <DeletedTextLocation Offset="2798" RevisionID="1"/>
+    <DeletedTextLocation Offset="2825" RevisionID="1"/>
+    <DeletedTextLocation Offset="2833" RevisionID="1"/>
+    <DeletedTextLocation Offset="2858" RevisionID="1"/>
+    <DeletedTextLocation Offset="2866" RevisionID="1"/>
+    <DeletedTextLocation Offset="2875" RevisionID="1"/>
+    <DeletedTextLocation Offset="2892" RevisionID="1"/>
+    <DeletedTextLocation Offset="2895" RevisionID="1"/>
+    <DeletedTextLocation Offset="2911" RevisionID="1"/>
+    <DeletedTextLocation Offset="2937" RevisionID="1"/>
+    <DeletedTextLocation Offset="2940" RevisionID="1"/>
+    <DeletedTextLocation Offset="2986" RevisionID="1"/>
+    <DeletedTextLocation Offset="3006" RevisionID="1"/>
+    <DeletedTextLocation Offset="3007" RevisionID="1"/>
+    <DeletedTextLocation Offset="3009" RevisionID="1"/>
+    <DeletedTextLocation Offset="3016" RevisionID="1"/>
+    <DeletedTextLocation Offset="3019" RevisionID="1"/>
+    <DeletedTextLocation Offset="3025" RevisionID="1"/>
+    <DeletedTextLocation Offset="3036" RevisionID="1"/>
+    <DeletedTextLocation Offset="3056" RevisionID="1"/>
+    <DeletedTextLocation Offset="3091" RevisionID="1"/>
+    <DeletedTextLocation Offset="3095" RevisionID="1"/>
+    <DeletedTextLocation Offset="3099" RevisionID="1"/>
+    <DeletedTextLocation Offset="3103" RevisionID="1"/>
+    <DeletedTextLocation Offset="3124" RevisionID="1"/>
+    <DeletedTextLocation Offset="3185" RevisionID="1"/>
+    <DeletedTextLocation Offset="3202" RevisionID="1"/>
+    <DeletedTextLocation Offset="3212" RevisionID="1"/>
+    <DeletedTextLocation Offset="3224" RevisionID="1"/>
+    <DeletedTextLocation Offset="3233" RevisionID="1"/>
+    <DeletedTextLocation Offset="3273" RevisionID="1"/>
+    <DeletedTextLocation Offset="3276" RevisionID="1"/>
+    <DeletedTextLocation Offset="3303" RevisionID="1"/>
+    <DeletedTextLocation Offset="3304" RevisionID="1"/>
+    <DeletedTextLocation Offset="3328" RevisionID="1"/>
+    <DeletedTextLocation Offset="3330" RevisionID="1"/>
+    <DeletedTextLocation Offset="3340" RevisionID="1"/>
+  </DeletedText>
 
   <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="0">
     <ScriptPanel DisplayMode="Page">
@@ -1032,6 +1073,7 @@
     <Member Actor="" Character="LAZLO"/>
     <Member Actor="" Character="Mary"/>
     <Member Actor="" Character="Mark"/>
+    <Member Actor="" Character="DR. TERESA"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -1043,9 +1085,9 @@
   </CastList>
 
   <CharacterHighlighting>
-    <Character Color="#RRRRGGGGBBBB" Name="DR. LUCINDA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="DR. TERESA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LUCINDA" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="MARK" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="MARY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PRIYA" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="TIM" Visible="No"/>
   </CharacterHighlighting>
